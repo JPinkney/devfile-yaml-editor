@@ -2,7 +2,7 @@ import { generateDevfile, Project, Plugin, ToolingContainer } from "./devfile-ge
 
 export class DevfileYAMLGeneration {
     
-    private DevfileYAML = 'apiVersion: v1\n';
+    private DevfileYAML = 'apiVersion: 1.0.0\n';
 
     async generateDevfileYAML() {
         const { name, projects, plugins, toolingContainers } = await generateDevfile();
@@ -19,11 +19,16 @@ export class DevfileYAMLGeneration {
     /**
      * -
      name: example
-    source:
+     source:
         type: git
         location: https://github.com/myrepo/example.git
     */
     private createProjectsYAML(projects: Project[]): void {
+        if (projects.length === 0) {
+            this.DevfileYAML += 'projects: []\n';
+            return;
+        }
+        
         this.DevfileYAML += 'projects:\n';
         projects.forEach(proj => {
             /**
@@ -37,6 +42,11 @@ export class DevfileYAMLGeneration {
     }
 
     private createPluginsAndToolingYAML(plugins: Plugin[], tooling: ToolingContainer[]): void {
+        if (plugins.length === 0 && tooling.length === 0) {
+            this.DevfileYAML += 'components: []\n';
+            return;
+        }
+
         this.DevfileYAML += 'components:\n';
         plugins.forEach(plugin => {
             this.DevfileYAML += `- id: ${plugin.id}\n`;
@@ -47,6 +57,7 @@ export class DevfileYAMLGeneration {
             this.DevfileYAML += `- type: dockerimage\n`;
             this.DevfileYAML += `  alias: ${tooling.name}\n`;
             this.DevfileYAML += `  image: ${tooling.image}\n`;
+            this.DevfileYAML += `  memoryLimit: 500Mb\n`;
         });
     }
 
