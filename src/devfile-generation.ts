@@ -117,35 +117,14 @@ export interface ToolingContainer {
 }
 
 async function generateToolingContainers(): Promise<ToolingContainer[]> {
-    const supportedToolingContainers = new Set([
-        'node',
-        'nodejs8',
-        'nodejs10',
-        'java',
-        'java8',
-        'java11',
-        'quarkus',
-        'php',
-        'python',
-        'cpp',
-        'dotnet',
-        'golang'
-    ]);
-    
     const toolingContainers = new Map<string, ToolingContainer>();
     quayToolingCache.forEach(element => {
-        const result = element.results;
-        result.forEach(repo => {
-            const name = repo.name;
-
-            const [ che, prog, ver ] = name.split('-');
-            if (che === 'che' && supportedToolingContainers.has(prog)) {
-                toolingContainers.set(name, {
-                    name,
-                    description: repo.description ? repo.description : "",
-                    image: `quay.io/eclipse/${name}:nightly`
-                });
-            }
+        const name = element.name;
+        const description = element.description;
+        toolingContainers.set(name, {
+            name,
+            description,
+            image: `quay.io/eclipse/${name}:nightly`
         });
     });
 
