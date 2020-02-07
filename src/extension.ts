@@ -1,6 +1,6 @@
 import * as vscode from 'vscode';
 import { getYAMLAPI, getSchemaContent, onRequestSchemaURI, DEVFILE_YAML_SCHEMA_NAME } from "./yaml-schema";
-import { generateDevfileYAML } from './devfile-yaml-generation';
+import { DevfileYAMLGeneration } from './devfile-yaml-generation';
 import { TextEncoder } from 'util';
 
 const generateDevfileCmdLabel = 'devfile.generate';
@@ -12,7 +12,7 @@ export async function activate(context: vscode.ExtensionContext) {
 		yamlAPI.registerContributor(DEVFILE_YAML_SCHEMA_NAME, onRequestSchemaURI, () => resolveSchemaContent);
 	}
 	vscode.commands.registerCommand(generateDevfileCmdLabel, async () => {
-		const devfileYAML = await generateDevfileYAML();
+		const devfileYAML = await (new DevfileYAMLGeneration().generateDevfileYAML());
 		console.log(devfileYAML);
 		const workspaceRoot = vscode.workspace.workspaceFolders;
 		if (workspaceRoot && workspaceRoot.length > 0) {

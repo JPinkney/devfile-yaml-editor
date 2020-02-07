@@ -24,7 +24,7 @@ export async function getYAMLAPI(): Promise<{registerContributor: YamlSchemaCont
 }
 
 export function onRequestSchemaURI(resource: string): string | undefined {
-	if (resource.endsWith('/devfile.yaml')) {
+	if (resource.toLowerCase().endsWith('/devfile.yaml')) {
 		return `${DEVFILE_YAML_SCHEMA_NAME}://schema/devfile`;
 	}
 	return undefined;
