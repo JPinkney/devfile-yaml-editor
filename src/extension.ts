@@ -3,7 +3,6 @@ import { getYAMLAPI, getSchemaContent, onRequestSchemaURI, META_YAML_SCHEMA_NAME
 import { generateDevfileYAML } from './devfile-yaml-generation';
 import { TextEncoder } from 'util';
 
-
 const generateDevfileCmdLabel = 'devfile.generate';
 
 export async function activate(context: vscode.ExtensionContext) {

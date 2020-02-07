@@ -44,6 +44,7 @@
 		"vscode-test": "^1.2.0"
 	},
 	"dependencies": {
+		"axios": "^0.19.2",
 		"request-light": "^0.2.5"
 	}
 }

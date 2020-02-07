@@ -1,7 +1,9 @@
 import * as vscode from 'vscode';
+import * as axios from 'axios';
 import { execFileSync } from 'child_process';
-import pluginRegistryCache from './plugin-registry-cache.json';
 import quayToolingCache from './quay-tooling-container-cache.json';
+
+const PLUGIN_REGISTRY_URL = 'https://che-plugin-registry.openshift.io/v3/plugins/';
 
 export async function generateName(): Promise<string> {
     return new Promise(resolve => {
@@ -54,7 +56,8 @@ export async function generatePlugins(): Promise<Plugin[]> {
     const plugins: Plugin[] = [];
     const fallbackVersions = new Map<string, Plugin>();
     const registrySet = new Map<string, any>();
-    pluginRegistryCache.forEach(x => {
+    const pluginRegistry = await axios.default.get(PLUGIN_REGISTRY_URL);
+    pluginRegistry.data.forEach((x: any) => {
         registrySet.set(x.id, x);
     });
     vscode.extensions.all.forEach(y => {
