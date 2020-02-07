@@ -102,7 +102,7 @@ export async function generatePlugins(): Promise<Plugin[]> {
             quickPick.onDidAccept(e => {
                 const selectedItems = quickPick.selectedItems;
                 const selectedToPlugin = selectedItems.map(id => fallbackVersions.get(id.label) as Plugin);
-                resolve(selectedToPlugin);
+                resolve(selectedToPlugin.concat(plugins));
                 quickPick.hide();
             });
             quickPick.show();
