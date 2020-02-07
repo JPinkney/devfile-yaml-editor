@@ -13,7 +13,6 @@ export async function activate(context: vscode.ExtensionContext) {
 	}
 	vscode.commands.registerCommand(generateDevfileCmdLabel, async () => {
 		const devfileYAML = await (new DevfileYAMLGeneration().generateDevfileYAML());
-		console.log(devfileYAML);
 		const workspaceRoot = vscode.workspace.workspaceFolders;
 		if (workspaceRoot && workspaceRoot.length > 0) {
 			let uri = workspaceRoot[0].uri.toString();
