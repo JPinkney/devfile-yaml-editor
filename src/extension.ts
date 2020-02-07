@@ -1,5 +1,5 @@
 import * as vscode from 'vscode';
-import { getYAMLAPI, getSchemaContent, onRequestSchemaURI, META_YAML_SCHEMA_NAME } from "./yaml-schema";
+import { getYAMLAPI, getSchemaContent, onRequestSchemaURI, DEVFILE_YAML_SCHEMA_NAME } from "./yaml-schema";
 import { generateDevfileYAML } from './devfile-yaml-generation';
 import { TextEncoder } from 'util';
 
@@ -9,7 +9,7 @@ export async function activate(context: vscode.ExtensionContext) {
 	const yamlAPI = await getYAMLAPI();
 	if (yamlAPI) {
 		const resolveSchemaContent = await getSchemaContent();
-		yamlAPI.registerContributor(META_YAML_SCHEMA_NAME, onRequestSchemaURI, () => resolveSchemaContent);
+		yamlAPI.registerContributor(DEVFILE_YAML_SCHEMA_NAME, onRequestSchemaURI, () => resolveSchemaContent);
 	}
 	vscode.commands.registerCommand(generateDevfileCmdLabel, async () => {
 		const devfileYAML = await generateDevfileYAML();

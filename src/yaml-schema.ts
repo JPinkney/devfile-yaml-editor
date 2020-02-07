@@ -2,7 +2,7 @@ import * as vscode from 'vscode';
 import { xhr } from 'request-light';
 
 export const VSCODE_YAML_EXTENSION_ID = 'redhat.vscode-yaml';
-export const META_YAML_SCHEMA_NAME = 'che-meta-yaml';
+export const DEVFILE_YAML_SCHEMA_NAME = 'che-meta-yaml';
 export const SCHEMA_URL = 'https://raw.githubusercontent.com/eclipse/che/master/wsmaster/che-core-api-workspace/src/main/resources/schema/1.0.0/devfile.json';
 
 declare type YamlSchemaContributor = (schema: string,
@@ -25,7 +25,7 @@ export async function getYAMLAPI(): Promise<{registerContributor: YamlSchemaCont
 
 export function onRequestSchemaURI(resource: string): string | undefined {
 	if (resource.endsWith('/devfile.yaml')) {
-		return `${META_YAML_SCHEMA_NAME}://schema/devfile`;
+		return `${DEVFILE_YAML_SCHEMA_NAME}://schema/devfile`;
 	}
 	return undefined;
 }
