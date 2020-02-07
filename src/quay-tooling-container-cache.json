@@ -1,0 +1,2582 @@
+[
+    {
+    "has_additional": true,
+    "start_index": 0,
+    "results": [
+      {
+        "description": "Community `maven` image with Java 11, patched to support Eclipse Che workspaces on OpenShift.\n- To build this image, see [build_images.sh](https://github.com/eclipse/che-devfile-registry/blob/master/arbitrary-users-patch/build_images.sh)\n- To publish this image via CI, see [cico_functions.sh](https://github.com/eclipse/che-devfile-registry/blob/master/cico_functions.sh#L127-L134)",
+        "href": "/repository/eclipse/che-java11-maven",
+        "last_modified": 1581033888,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-java11-maven",
+        "title": "repo",
+        "popularity": 72193,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/eclipse",
+          "avatar": {
+            "color": "#9c9ede",
+            "kind": "org",
+            "hash": "d741333ec3a398b44a1c42436ee5f3d3",
+            "name": "eclipse"
+          },
+          "name": "eclipse"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "Plugin registry for Eclipse Che. Sources: [https://github.com/eclipse/che-plugin-registry](https://github.com/eclipse/che-plugin-registry)",
+        "href": "/repository/eclipse/che-plugin-registry",
+        "last_modified": 1581033862,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-plugin-registry",
+        "title": "repo",
+        "popularity": 92195,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/eclipse",
+          "avatar": {
+            "color": "#9c9ede",
+            "kind": "org",
+            "hash": "d741333ec3a398b44a1c42436ee5f3d3",
+            "name": "eclipse"
+          },
+          "name": "eclipse"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "Devfile registry for Eclipse Che. Sources: [https://github.com/eclipse/che-devfile-registry](https://github.com/eclipse/che-devfile-registry)",
+        "href": "/repository/eclipse/che-devfile-registry",
+        "last_modified": 1581034509,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-devfile-registry",
+        "title": "repo",
+        "popularity": 90130,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/eclipse",
+          "avatar": {
+            "color": "#9c9ede",
+            "kind": "org",
+            "hash": "d741333ec3a398b44a1c42436ee5f3d3",
+            "name": "eclipse"
+          },
+          "name": "eclipse"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "Go-lang server-side for creation machine-execs for Eclipse Che workspaces. Uses to spawn terminal or command processes.\nmachine-exec uses json-rpc protocol to communication with client.\n\nBuilt from [https://github.com/eclipse/che-machine-exec/blob/master/Dockerfile](https://github.com/eclipse/che-machine-exec/blob/master/Dockerfile)",
+        "href": "/repository/eclipse/che-machine-exec",
+        "last_modified": 1581033975,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-machine-exec",
+        "title": "repo",
+        "popularity": 12300,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/eclipse",
+          "avatar": {
+            "color": "#9c9ede",
+            "kind": "org",
+            "hash": "d741333ec3a398b44a1c42436ee5f3d3",
+            "name": "eclipse"
+          },
+          "name": "eclipse"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "Docker images for presslabs mysql operator's sidecar.\n\nhttps://github.com/presslabs/mysql-operator",
+        "href": "/repository/presslabs/mysql-operator-sidecar",
+        "last_modified": 1580825069,
+        "is_public": true,
+        "kind": "repository",
+        "name": "mysql-operator-sidecar",
+        "title": "repo",
+        "popularity": 7947,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/presslabs",
+          "avatar": {
+            "color": "#c49c94",
+            "kind": "org",
+            "hash": "ab96a4d8be46240387fcb394171db3f4",
+            "name": "presslabs"
+          },
+          "name": "presslabs"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "Built from [https://github.com/eclipse/che-jwtproxy/blob/master/Dockerfile](https://github.com/eclipse/che-jwtproxy/blob/master/Dockerfile)",
+        "href": "/repository/eclipse/che-jwtproxy",
+        "last_modified": 1581033713,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-jwtproxy",
+        "title": "repo",
+        "popularity": 7408,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/eclipse",
+          "avatar": {
+            "color": "#9c9ede",
+            "kind": "org",
+            "hash": "d741333ec3a398b44a1c42436ee5f3d3",
+            "name": "eclipse"
+          },
+          "name": "eclipse"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "Operator to deploy Che. Sources: [https://github.com/eclipse/che-operator/](https://github.com/eclipse/che-operator)",
+        "href": "/repository/eclipse/che-operator",
+        "last_modified": 1581034377,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-operator",
+        "title": "repo",
+        "popularity": 7240,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/eclipse",
+          "avatar": {
+            "color": "#9c9ede",
+            "kind": "org",
+            "hash": "d741333ec3a398b44a1c42436ee5f3d3",
+            "name": "eclipse"
+          },
+          "name": "eclipse"
+        },
+        "score": 4,
+        "stars": 1
+      },
+      {
+        "description": "",
+        "href": "/repository/eclipse/che-theia",
+        "last_modified": 1580953374,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-theia",
+        "title": "repo",
+        "popularity": 27661,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/eclipse",
+          "avatar": {
+            "color": "#9c9ede",
+            "kind": "org",
+            "hash": "d741333ec3a398b44a1c42436ee5f3d3",
+            "name": "eclipse"
+          },
+          "name": "eclipse"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "",
+        "href": "/repository/eclipse/che-theia-endpoint-runtime-binary",
+        "last_modified": 1580953397,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-theia-endpoint-runtime-binary",
+        "title": "repo",
+        "popularity": 20969,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/eclipse",
+          "avatar": {
+            "color": "#9c9ede",
+            "kind": "org",
+            "hash": "d741333ec3a398b44a1c42436ee5f3d3",
+            "name": "eclipse"
+          },
+          "name": "eclipse"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "",
+        "href": "/repository/eclipse/che-server",
+        "last_modified": 1581023788,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-server",
+        "title": "repo",
+        "popularity": 7491,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/eclipse",
+          "avatar": {
+            "color": "#9c9ede",
+            "kind": "org",
+            "hash": "d741333ec3a398b44a1c42436ee5f3d3",
+            "name": "eclipse"
+          },
+          "name": "eclipse"
+        },
+        "score": 4,
+        "stars": 0
+      }
+    ],
+    "page_size": 10,
+    "page": 1
+  },
+  {
+    "has_additional": true,
+    "start_index": 10,
+    "results": [
+      {
+        "description": "Java sidecar container for plug-in tooling\n\n\nDockerfile is from [https://github.com/che-dockerfiles/che-sidecar-java](https://github.com/che-dockerfiles/che-sidecar-java) repository",
+        "href": "/repository/eclipse/che-sidecar-java",
+        "last_modified": 1575465927,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-sidecar-java",
+        "title": "repo",
+        "popularity": 17095,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/eclipse",
+          "avatar": {
+            "color": "#9c9ede",
+            "kind": "org",
+            "hash": "d741333ec3a398b44a1c42436ee5f3d3",
+            "name": "eclipse"
+          },
+          "name": "eclipse"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "This broker runs as an init container on the workspace pod. Its job is to take in a list of plugin identifiers (either references to a plugin in the registry or a link to a plugin meta.yaml) and ensure that the correct .vsix and .theia extenions are downloaded into the /plugins directory, for each plugin requested for the workspace. [source](https://github.com/eclipse/che-plugin-broker)",
+        "href": "/repository/eclipse/che-plugin-artifacts-broker",
+        "last_modified": 1581033889,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-plugin-artifacts-broker",
+        "title": "repo",
+        "popularity": 18587,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/eclipse",
+          "avatar": {
+            "color": "#9c9ede",
+            "kind": "org",
+            "hash": "d741333ec3a398b44a1c42436ee5f3d3",
+            "name": "eclipse"
+          },
+          "name": "eclipse"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "This broker must be run prior to starting the workspace's pod, as its job is to provision required containers, volumes, and environment variables for the workspace to be able to start with the installed plugins enabled. \n[source](https://github.com/eclipse/che-plugin-broker)",
+        "href": "/repository/eclipse/che-plugin-metadata-broker",
+        "last_modified": 1581033865,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-plugin-metadata-broker",
+        "title": "repo",
+        "popularity": 17747,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/eclipse",
+          "avatar": {
+            "color": "#9c9ede",
+            "kind": "org",
+            "hash": "d741333ec3a398b44a1c42436ee5f3d3",
+            "name": "eclipse"
+          },
+          "name": "eclipse"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "https://github.com/eclipse/che/tree/master/dockerfiles/keycloak",
+        "href": "/repository/eclipse/che-keycloak",
+        "last_modified": 1580952188,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-keycloak",
+        "title": "repo",
+        "popularity": 649,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/eclipse",
+          "avatar": {
+            "color": "#9c9ede",
+            "kind": "org",
+            "hash": "d741333ec3a398b44a1c42436ee5f3d3",
+            "name": "eclipse"
+          },
+          "name": "eclipse"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "Node sidecar container for plug-in tooling\n\nDockerfile is from [https://github.com/che-dockerfiles/che-sidecar-node](https://github.com/che-dockerfiles/che-sidecar-node) repository",
+        "href": "/repository/eclipse/che-sidecar-node",
+        "last_modified": 1575464444,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-sidecar-node",
+        "title": "repo",
+        "popularity": 2677,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/eclipse",
+          "avatar": {
+            "color": "#9c9ede",
+            "kind": "org",
+            "hash": "d741333ec3a398b44a1c42436ee5f3d3",
+            "name": "eclipse"
+          },
+          "name": "eclipse"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "UBI nodejs 10 image, patched to support Eclipse Che workspaces on OpenShift. For details, see the [UBI image announcement](https://www.redhat.com/en/blog/introducing-red-hat-universal-base-image)\n\n- To build this image, see [build_images.sh](https://github.com/eclipse/che-devfile-registry/blob/master/arbitrary-users-patch/build_images.sh)\n- To publish this image via CI, see [cico_functions.sh](https://github.com/eclipse/che-devfile-registry/blob/master/cico_functions.sh#L127-L134)",
+        "href": "/repository/eclipse/che-nodejs10-ubi",
+        "last_modified": 1581034009,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-nodejs10-ubi",
+        "title": "repo",
+        "popularity": 1246,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/eclipse",
+          "avatar": {
+            "color": "#9c9ede",
+            "kind": "org",
+            "hash": "d741333ec3a398b44a1c42436ee5f3d3",
+            "name": "eclipse"
+          },
+          "name": "eclipse"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "A sidecar for kibana to ingest some prepared configuration. This is a **public** image!",
+        "href": "/repository/giantswarm/kibana-sidecar",
+        "last_modified": 1576154752,
+        "is_public": true,
+        "kind": "repository",
+        "name": "kibana-sidecar",
+        "title": "repo",
+        "popularity": 6,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/giantswarm",
+          "avatar": {
+            "color": "#9edae5",
+            "kind": "org",
+            "hash": "5368bb9b98977357e1b9d20aa4ea8ed7",
+            "name": "giantswarm"
+          },
+          "name": "giantswarm"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "Community `maven` image with Java 8, patched to support Eclipse Che workspaces on OpenShift.\n- To build this image, see [build_images.sh](https://github.com/eclipse/che-devfile-registry/blob/master/arbitrary-users-patch/build_images.sh)\n- To publish this image via CI, see [cico_functions.sh](https://github.com/eclipse/che-devfile-registry/blob/master/cico_functions.sh#L127-L134)",
+        "href": "/repository/eclipse/che-java8-maven",
+        "last_modified": 1581033914,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-java8-maven",
+        "title": "repo",
+        "popularity": 599,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/eclipse",
+          "avatar": {
+            "color": "#9c9ede",
+            "kind": "org",
+            "hash": "d741333ec3a398b44a1c42436ee5f3d3",
+            "name": "eclipse"
+          },
+          "name": "eclipse"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "Community `nodejs` image, patched to support Eclipse Che workspaces on OpenShift.\n\n- To build this image, see [build_images.sh](https://github.com/eclipse/che-devfile-registry/blob/master/arbitrary-users-patch/build_images.sh)\n- To publish this image via CI, see [cico_functions.sh](https://github.com/eclipse/che-devfile-registry/blob/master/cico_functions.sh#L127-L134)",
+        "href": "/repository/eclipse/che-nodejs10-community",
+        "last_modified": 1581033958,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-nodejs10-community",
+        "title": "repo",
+        "popularity": 545,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/eclipse",
+          "avatar": {
+            "color": "#9c9ede",
+            "kind": "org",
+            "hash": "d741333ec3a398b44a1c42436ee5f3d3",
+            "name": "eclipse"
+          },
+          "name": "eclipse"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "PHP 7 image, patched to support Eclipse Che workspaces on OpenShift.\n\n- To build this image, see [build_images.sh](https://github.com/eclipse/che-devfile-registry/blob/master/arbitrary-users-patch/build_images.sh)\n- To publish this image via CI, see [cico_functions.sh](https://github.com/eclipse/che-devfile-registry/blob/master/cico_functions.sh#L127-L134)",
+        "href": "/repository/eclipse/che-php-7",
+        "last_modified": 1581034097,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-php-7",
+        "title": "repo",
+        "popularity": 330,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/eclipse",
+          "avatar": {
+            "color": "#9c9ede",
+            "kind": "org",
+            "hash": "d741333ec3a398b44a1c42436ee5f3d3",
+            "name": "eclipse"
+          },
+          "name": "eclipse"
+        },
+        "score": 4,
+        "stars": 0
+      }
+    ],
+    "page_size": 10,
+    "page": 2
+  },
+  {
+    "has_additional": true,
+    "start_index": 20,
+    "results": [
+      {
+        "description": null,
+        "href": "/repository/replicated/replicated-sidecar-controller",
+        "last_modified": 1519674062,
+        "is_public": true,
+        "kind": "repository",
+        "name": "replicated-sidecar-controller",
+        "title": "repo",
+        "popularity": 580,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/replicated",
+          "avatar": {
+            "color": "#6b6ecf",
+            "kind": "org",
+            "hash": "16c6593b8c28c693a3eb3f632adf0a0e",
+            "name": "replicated"
+          },
+          "name": "replicated"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "Python 3.7 image patched to support Eclipse Che workspaces on OpenShift.\n\n- To build this image, see [build_images.sh](https://github.com/eclipse/che-devfile-registry/blob/master/arbitrary-users-patch/build_images.sh)\n- To publish this image via CI, see [cico_functions.sh](https://github.com/eclipse/che-devfile-registry/blob/master/cico_functions.sh#L127-L134)",
+        "href": "/repository/eclipse/che-python-3.7",
+        "last_modified": 1581034146,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-python-3.7",
+        "title": "repo",
+        "popularity": 450,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/eclipse",
+          "avatar": {
+            "color": "#9c9ede",
+            "kind": "org",
+            "hash": "d741333ec3a398b44a1c42436ee5f3d3",
+            "name": "eclipse"
+          },
+          "name": "eclipse"
+        },
+        "score": 4,
+        "stars": 1
+      },
+      {
+        "description": "Community `gradle` image, patched to support Eclipse Che workspaces on OpenShift.\n\n- To build this image, see [build_images.sh](https://github.com/eclipse/che-devfile-registry/blob/master/arbitrary-users-patch/build_images.sh)\n- To publish this image via CI, see [cico_functions.sh](https://github.com/eclipse/che-devfile-registry/blob/master/cico_functions.sh#L127-L134)",
+        "href": "/repository/eclipse/che-java11-gradle",
+        "last_modified": 1581033850,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-java11-gradle",
+        "title": "repo",
+        "popularity": 220,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/eclipse",
+          "avatar": {
+            "color": "#9c9ede",
+            "kind": "org",
+            "hash": "d741333ec3a398b44a1c42436ee5f3d3",
+            "name": "eclipse"
+          },
+          "name": "eclipse"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": null,
+        "href": "/repository/eformat/kinit-sidecar",
+        "last_modified": 1574909832,
+        "is_public": true,
+        "kind": "repository",
+        "name": "kinit-sidecar",
+        "title": "repo",
+        "popularity": 0,
+        "namespace": {
+          "kind": "user",
+          "score": 1,
+          "title": "user",
+          "href": "/user/eformat",
+          "avatar": {
+            "color": "#9ecae1",
+            "kind": "user",
+            "hash": "381bb8122e79367a26302678099ee676",
+            "name": "eformat"
+          },
+          "name": "eformat"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "Python sidecar container for plug-in tooling\n\nDockerfile is from [https://github.com/che-dockerfiles/che-sidecar-python](https://github.com/che-dockerfiles/che-sidecar-python) repository",
+        "href": "/repository/eclipse/che-sidecar-python",
+        "last_modified": 1575465955,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-sidecar-python",
+        "title": "repo",
+        "popularity": 820,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/eclipse",
+          "avatar": {
+            "color": "#9c9ede",
+            "kind": "org",
+            "hash": "d741333ec3a398b44a1c42436ee5f3d3",
+            "name": "eclipse"
+          },
+          "name": "eclipse"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "RHEL7-based C++ image patched to support Eclipse Che workspaces on OpenShift.\n\n- To build this image, see [build_images.sh](https://github.com/eclipse/che-devfile-registry/blob/master/arbitrary-users-patch/build_images.sh)\n- To publish this image via CI, see [cico_functions.sh](https://github.com/eclipse/che-devfile-registry/blob/master/cico_functions.sh#L127-L134)",
+        "href": "/repository/eclipse/che-cpp-rhel7",
+        "last_modified": 1581033705,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-cpp-rhel7",
+        "title": "repo",
+        "popularity": 213,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/eclipse",
+          "avatar": {
+            "color": "#9c9ede",
+            "kind": "org",
+            "hash": "d741333ec3a398b44a1c42436ee5f3d3",
+            "name": "eclipse"
+          },
+          "name": "eclipse"
+        },
+        "score": 4,
+        "stars": 1
+      },
+      {
+        "description": null,
+        "href": "/repository/clearai/vault-sidecar-secret-updater",
+        "last_modified": 1580428671,
+        "is_public": true,
+        "kind": "repository",
+        "name": "vault-sidecar-secret-updater",
+        "title": "repo",
+        "popularity": 11,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/clearai",
+          "avatar": {
+            "color": "#aec7e8",
+            "kind": "org",
+            "hash": "a114540282b13212c69ced3f432e5751",
+            "name": "clearai"
+          },
+          "name": "clearai"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "CentOS-based nodejs 8 image, patched to support Eclipse Che workspaces on OpenShift.\n\n- To build this image, see [build_images.sh](https://github.com/eclipse/che-devfile-registry/blob/master/arbitrary-users-patch/build_images.sh)\n- To publish this image via CI, see [cico_functions.sh](https://github.com/eclipse/che-devfile-registry/blob/master/cico_functions.sh#L127-L134)",
+        "href": "/repository/eclipse/che-nodejs8-centos",
+        "last_modified": 1581034069,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-nodejs8-centos",
+        "title": "repo",
+        "popularity": 179,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/eclipse",
+          "avatar": {
+            "color": "#9c9ede",
+            "kind": "org",
+            "hash": "d741333ec3a398b44a1c42436ee5f3d3",
+            "name": "eclipse"
+          },
+          "name": "eclipse"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "Go sidecar container for plug-in tooling\n\nDockerfile is from [https://github.com/che-dockerfiles/che-sidecar-php](https://github.com/che-dockerfiles/che-sidecar-php) repository",
+        "href": "/repository/eclipse/che-sidecar-php",
+        "last_modified": 1575466097,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-sidecar-php",
+        "title": "repo",
+        "popularity": 528,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/eclipse",
+          "avatar": {
+            "color": "#9c9ede",
+            "kind": "org",
+            "hash": "d741333ec3a398b44a1c42436ee5f3d3",
+            "name": "eclipse"
+          },
+          "name": "eclipse"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": null,
+        "href": "/repository/karbon/k8s-dns-sidecar-amd64",
+        "last_modified": 1565886483,
+        "is_public": true,
+        "kind": "repository",
+        "name": "k8s-dns-sidecar-amd64",
+        "title": "repo",
+        "popularity": 245,
+        "namespace": {
+          "kind": "user",
+          "score": 1,
+          "title": "user",
+          "href": "/user/karbon",
+          "avatar": {
+            "color": "#9edae5",
+            "kind": "user",
+            "hash": "9311f452d73bf0a254214d423ca67318",
+            "name": "karbon"
+          },
+          "name": "karbon"
+        },
+        "score": 4,
+        "stars": 0
+      }
+    ],
+    "page_size": 10,
+    "page": 3
+  },
+  {
+    "has_additional": true,
+    "start_index": 30,
+    "results": [
+      {
+        "description": "",
+        "href": "/repository/cdis/gen3fuse-sidecar",
+        "last_modified": 1580786392,
+        "is_public": true,
+        "kind": "repository",
+        "name": "gen3fuse-sidecar",
+        "title": "repo",
+        "popularity": 102,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/cdis",
+          "avatar": {
+            "color": "#393b79",
+            "kind": "org",
+            "hash": "f4c1898d5a56b4af5d6af68b8e3b58f6",
+            "name": "cdis"
+          },
+          "name": "cdis"
+        },
+        "score": 4,
+        "stars": 1
+      },
+      {
+        "description": "Microsoft .NET image patched to support Eclipse Che workspaces on OpenShift.\n\n- To build this image, see [build_images.sh](https://github.com/eclipse/che-devfile-registry/blob/master/arbitrary-users-patch/build_images.sh)\n- To publish this image via CI, see [cico_functions.sh](https://github.com/eclipse/che-devfile-registry/blob/master/cico_functions.sh#L127-L134)",
+        "href": "/repository/eclipse/che-dotnet-2.2",
+        "last_modified": 1581033771,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-dotnet-2.2",
+        "title": "repo",
+        "popularity": 132,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/eclipse",
+          "avatar": {
+            "color": "#9c9ede",
+            "kind": "org",
+            "hash": "d741333ec3a398b44a1c42436ee5f3d3",
+            "name": "eclipse"
+          },
+          "name": "eclipse"
+        },
+        "score": 4,
+        "stars": 2
+      },
+      {
+        "description": "",
+        "href": "/repository/dvulpe/httpcache-sidecar",
+        "last_modified": 1577036931,
+        "is_public": true,
+        "kind": "repository",
+        "name": "httpcache-sidecar",
+        "title": "repo",
+        "popularity": 0,
+        "namespace": {
+          "kind": "user",
+          "score": 1,
+          "title": "user",
+          "href": "/user/dvulpe",
+          "avatar": {
+            "color": "#bcbd22",
+            "kind": "user",
+            "hash": "709c0cb91239ab66cb04e2ae6ce044a9",
+            "name": "dvulpe"
+          },
+          "name": "dvulpe"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "CentOS-based Python 3.6 image, patched to support Eclipse Che workspaces on OpenShift.\n\n- To build this image, see [build_images.sh](https://github.com/eclipse/che-devfile-registry/blob/master/arbitrary-users-patch/build_images.sh)\n- To publish this image via CI, see [cico_functions.sh](https://github.com/eclipse/che-devfile-registry/blob/master/cico_functions.sh#L127-L134)",
+        "href": "/repository/eclipse/che-python-3.6",
+        "last_modified": 1581034132,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-python-3.6",
+        "title": "repo",
+        "popularity": 10,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/eclipse",
+          "avatar": {
+            "color": "#9c9ede",
+            "kind": "org",
+            "hash": "d741333ec3a398b44a1c42436ee5f3d3",
+            "name": "eclipse"
+          },
+          "name": "eclipse"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "Go sidecar container for plug-in tooling\n\n\nDockerfile is from [https://github.com/che-dockerfiles/che-sidecar-go](https://github.com/che-dockerfiles/che-sidecar-go) repository",
+        "href": "/repository/eclipse/che-sidecar-go",
+        "last_modified": 1580150173,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-sidecar-go",
+        "title": "repo",
+        "popularity": 210,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/eclipse",
+          "avatar": {
+            "color": "#9c9ede",
+            "kind": "org",
+            "hash": "d741333ec3a398b44a1c42436ee5f3d3",
+            "name": "eclipse"
+          },
+          "name": "eclipse"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "Community `golang` image, using Go 1.12 and patched to support Eclipse Che workspaces on OpenShift.\n\n- To build this image, see [build_images.sh](https://github.com/eclipse/che-devfile-registry/blob/master/arbitrary-users-patch/build_images.sh)\n- To publish this image via CI, see [cico_functions.sh](https://github.com/eclipse/che-devfile-registry/blob/master/cico_functions.sh#L127-L134)",
+        "href": "/repository/eclipse/che-golang-1.12",
+        "last_modified": 1581033809,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-golang-1.12",
+        "title": "repo",
+        "popularity": 184,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/eclipse",
+          "avatar": {
+            "color": "#9c9ede",
+            "kind": "org",
+            "hash": "d741333ec3a398b44a1c42436ee5f3d3",
+            "name": "eclipse"
+          },
+          "name": "eclipse"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "",
+        "href": "/repository/gattytto/che-sidecar-go_grpc",
+        "last_modified": 1578595186,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-sidecar-go_grpc",
+        "title": "repo",
+        "popularity": 0,
+        "namespace": {
+          "kind": "user",
+          "score": 1,
+          "title": "user",
+          "href": "/user/gattytto",
+          "avatar": {
+            "color": "#31a354",
+            "kind": "user",
+            "hash": "595ba78687c4ce74da44515ffdf57c8f",
+            "name": "gattytto"
+          },
+          "name": "gattytto"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "",
+        "href": "/repository/gattytto/che-sidecar-proto3",
+        "last_modified": 1580405499,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-sidecar-proto3",
+        "title": "repo",
+        "popularity": 24,
+        "namespace": {
+          "kind": "user",
+          "score": 1,
+          "title": "user",
+          "href": "/user/gattytto",
+          "avatar": {
+            "color": "#31a354",
+            "kind": "user",
+            "hash": "595ba78687c4ce74da44515ffdf57c8f",
+            "name": "gattytto"
+          },
+          "name": "gattytto"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "https://github.com/eclipse/che/tree/master/dockerfiles/keycloak",
+        "href": "/repository/eclipse/che-postgres",
+        "last_modified": 1580952196,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-postgres",
+        "title": "repo",
+        "popularity": 655,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/eclipse",
+          "avatar": {
+            "color": "#9c9ede",
+            "kind": "org",
+            "hash": "d741333ec3a398b44a1c42436ee5f3d3",
+            "name": "eclipse"
+          },
+          "name": "eclipse"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "Kubernetes sidecar container for plug-in tooling\n\nDockerfile is from [https://github.com/che-dockerfiles/che-sidecar-kubernetes-tooling](https://github.com/che-dockerfiles/che-sidecar-kubernetes-tooling) repository",
+        "href": "/repository/eclipse/che-sidecar-kubernetes-tooling",
+        "last_modified": 1579035920,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-sidecar-kubernetes-tooling",
+        "title": "repo",
+        "popularity": 331,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/eclipse",
+          "avatar": {
+            "color": "#9c9ede",
+            "kind": "org",
+            "hash": "d741333ec3a398b44a1c42436ee5f3d3",
+            "name": "eclipse"
+          },
+          "name": "eclipse"
+        },
+        "score": 4,
+        "stars": 0
+      }
+    ],
+    "page_size": 10,
+    "page": 4
+  },
+  {
+    "has_additional": true,
+    "start_index": 40,
+    "results": [
+      {
+        "description": "**[NOTE]** This image has been **deprecated**. Users should transition to `quay.io/eclipse/che-golang-1.12`\n\n---\n\nCommunity `golang` image, patched to support Eclipse Che workspaces on OpenShift.\n\n- To build this image, see [build_images.sh](https://github.com/eclipse/che-devfile-registry/blob/master/arbitrary-users-patch/build_images.sh)\n- To publish this image via CI, see [cico_functions.sh](https://github.com/eclipse/che-devfile-registry/blob/master/cico_functions.sh#L127-L134)",
+        "href": "/repository/eclipse/che-golang-1.10",
+        "last_modified": 1571789020,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-golang-1.10",
+        "title": "repo",
+        "popularity": 6,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/eclipse",
+          "avatar": {
+            "color": "#9c9ede",
+            "kind": "org",
+            "hash": "d741333ec3a398b44a1c42436ee5f3d3",
+            "name": "eclipse"
+          },
+          "name": "eclipse"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "Openshift connector sidecar container for plug-in tooling\n\nDockerfile is from [https://github.com/che-dockerfiles/che-sidecar-openshift-connector](https://github.com/che-dockerfiles/che-sidecar-openshift-connector) repository",
+        "href": "/repository/eclipse/che-sidecar-openshift-connector",
+        "last_modified": 1575464181,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-sidecar-openshift-connector",
+        "title": "repo",
+        "popularity": 179,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/eclipse",
+          "avatar": {
+            "color": "#9c9ede",
+            "kind": "org",
+            "hash": "d741333ec3a398b44a1c42436ee5f3d3",
+            "name": "eclipse"
+          },
+          "name": "eclipse"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "",
+        "href": "/repository/wish/pypicloud-sidecar",
+        "last_modified": 1562798295,
+        "is_public": true,
+        "kind": "repository",
+        "name": "pypicloud-sidecar",
+        "title": "repo",
+        "popularity": 1040,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/wish",
+          "avatar": {
+            "color": "#b5cf6b",
+            "kind": "org",
+            "hash": "1a239be0364b5f5dfa6b3d008cf45c3b",
+            "name": "wish"
+          },
+          "name": "wish"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "Clang sidecar container for plug-in tooling\n\nDockerfile is from [https://github.com/che-dockerfiles/che-sidecar-clang](https://github.com/che-dockerfiles/che-sidecar-clang) repository",
+        "href": "/repository/eclipse/che-sidecar-clang",
+        "last_modified": 1575466640,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-sidecar-clang",
+        "title": "repo",
+        "popularity": 436,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/eclipse",
+          "avatar": {
+            "color": "#9c9ede",
+            "kind": "org",
+            "hash": "d741333ec3a398b44a1c42436ee5f3d3",
+            "name": "eclipse"
+          },
+          "name": "eclipse"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "",
+        "href": "/repository/cdis/sidecar",
+        "last_modified": 1581009939,
+        "is_public": true,
+        "kind": "repository",
+        "name": "sidecar",
+        "title": "repo",
+        "popularity": 102,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/cdis",
+          "avatar": {
+            "color": "#393b79",
+            "kind": "org",
+            "hash": "f4c1898d5a56b4af5d6af68b8e3b58f6",
+            "name": "cdis"
+          },
+          "name": "cdis"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "Dotnet sidecar container for plug-in tooling\n\nDockerfile is from [https://github.com/che-dockerfiles/che-sidecar-dotnet](https://github.com/che-dockerfiles/che-sidecar-dotnet) repository",
+        "href": "/repository/eclipse/che-sidecar-dotnet",
+        "last_modified": 1575466380,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-sidecar-dotnet",
+        "title": "repo",
+        "popularity": 191,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/eclipse",
+          "avatar": {
+            "color": "#9c9ede",
+            "kind": "org",
+            "hash": "d741333ec3a398b44a1c42436ee5f3d3",
+            "name": "eclipse"
+          },
+          "name": "eclipse"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "",
+        "href": "/repository/spotahome/brigade-git-sidecar",
+        "last_modified": 1524495196,
+        "is_public": true,
+        "kind": "repository",
+        "name": "brigade-git-sidecar",
+        "title": "repo",
+        "popularity": 109,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/spotahome",
+          "avatar": {
+            "color": "#6b6ecf",
+            "kind": "org",
+            "hash": "d6dfb0b75f39bd13730356060e15c0b3",
+            "name": "spotahome"
+          },
+          "name": "spotahome"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "",
+        "href": "/repository/gattytto/che-operator",
+        "last_modified": 1578013514,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-operator",
+        "title": "repo",
+        "popularity": 0,
+        "namespace": {
+          "kind": "user",
+          "score": 1,
+          "title": "user",
+          "href": "/user/gattytto",
+          "avatar": {
+            "color": "#31a354",
+            "kind": "user",
+            "hash": "595ba78687c4ce74da44515ffdf57c8f",
+            "name": "gattytto"
+          },
+          "name": "gattytto"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "",
+        "href": "/repository/solo-io/sidecar-injector",
+        "last_modified": 1571746412,
+        "is_public": true,
+        "kind": "repository",
+        "name": "sidecar-injector",
+        "title": "repo",
+        "popularity": 0,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/solo-io",
+          "avatar": {
+            "color": "#393b79",
+            "kind": "org",
+            "hash": "14864623e136c4c755c9484a2ae4ecd6",
+            "name": "solo-io"
+          },
+          "name": "solo-io"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "",
+        "href": "/repository/gattytto/che-plugin-registry",
+        "last_modified": 1580965500,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-plugin-registry",
+        "title": "repo",
+        "popularity": 20,
+        "namespace": {
+          "kind": "user",
+          "score": 1,
+          "title": "user",
+          "href": "/user/gattytto",
+          "avatar": {
+            "color": "#31a354",
+            "kind": "user",
+            "hash": "595ba78687c4ce74da44515ffdf57c8f",
+            "name": "gattytto"
+          },
+          "name": "gattytto"
+        },
+        "score": 4,
+        "stars": 0
+      }
+    ],
+    "page_size": 10,
+    "page": 5
+  },
+  {
+    "has_additional": true,
+    "start_index": 50,
+    "results": [
+      {
+        "description": "",
+        "href": "/repository/andrei_radulescu/fluent-bit-sidecar",
+        "last_modified": 1579695425,
+        "is_public": true,
+        "kind": "repository",
+        "name": "fluent-bit-sidecar",
+        "title": "repo",
+        "popularity": 96,
+        "namespace": {
+          "kind": "user",
+          "score": 1,
+          "title": "user",
+          "href": "/user/andrei_radulescu",
+          "avatar": {
+            "color": "#aec7e8",
+            "kind": "user",
+            "hash": "e166b7da327892c95d79c93fed6cc570",
+            "name": "andrei_radulescu"
+          },
+          "name": "andrei_radulescu"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": null,
+        "href": "/repository/dsanchor/sidecar",
+        "last_modified": 1572428860,
+        "is_public": true,
+        "kind": "repository",
+        "name": "sidecar",
+        "title": "repo",
+        "popularity": 0,
+        "namespace": {
+          "kind": "user",
+          "score": 1,
+          "title": "user",
+          "href": "/user/dsanchor",
+          "avatar": {
+            "color": "#c7c7c7",
+            "kind": "user",
+            "hash": "2f3def3bef684ddf7d52c560b2372605",
+            "name": "dsanchor"
+          },
+          "name": "dsanchor"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "End-to-end typescript tests for Che 7 https://github.com/eclipse/che/tree/master/dockerfiles/e2e",
+        "href": "/repository/eclipse/che-e2e",
+        "last_modified": 1580952576,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-e2e",
+        "title": "repo",
+        "popularity": 206,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/eclipse",
+          "avatar": {
+            "color": "#9c9ede",
+            "kind": "org",
+            "hash": "d741333ec3a398b44a1c42436ee5f3d3",
+            "name": "eclipse"
+          },
+          "name": "eclipse"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": null,
+        "href": "/repository/dfestal/che-operator",
+        "last_modified": 1574448567,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-operator",
+        "title": "repo",
+        "popularity": 0,
+        "namespace": {
+          "kind": "user",
+          "score": 1,
+          "title": "user",
+          "href": "/user/dfestal",
+          "avatar": {
+            "color": "#b5cf6b",
+            "kind": "user",
+            "hash": "bac405053dc12889bfc94923f75ebf9f",
+            "name": "dfestal"
+          },
+          "name": "dfestal"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "",
+        "href": "/repository/che-paquetes/che-golanggrpc-1.12",
+        "last_modified": 1578628974,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-golanggrpc-1.12",
+        "title": "repo",
+        "popularity": 15,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/che-paquetes",
+          "avatar": {
+            "color": "#bcbd22",
+            "kind": "org",
+            "hash": "7014db20a76caf9b42dff659ddfdb8c5",
+            "name": "che-paquetes"
+          },
+          "name": "che-paquetes"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "Community `rust` image with Rust `1.39.0`, patched to support Eclipse Che workspaces on OpenShift.\n- To build this image, see [build_images.sh](https://github.com/eclipse/che-devfile-registry/blob/master/arbitrary-users-patch/build_images.sh)\n- To publish this image via CI, see [cico_functions.sh](https://github.com/eclipse/che-devfile-registry/blob/master/cico_functions.sh#L127-L134)",
+        "href": "/repository/eclipse/che-rust-1.39",
+        "last_modified": 1581034240,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-rust-1.39",
+        "title": "repo",
+        "popularity": 42,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/eclipse",
+          "avatar": {
+            "color": "#9c9ede",
+            "kind": "org",
+            "hash": "d741333ec3a398b44a1c42436ee5f3d3",
+            "name": "eclipse"
+          },
+          "name": "eclipse"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": null,
+        "href": "/repository/iguazio/sidecar-proxy",
+        "last_modified": 1576495876,
+        "is_public": true,
+        "kind": "repository",
+        "name": "sidecar-proxy",
+        "title": "repo",
+        "popularity": 13,
+        "namespace": {
+          "kind": "user",
+          "score": 1,
+          "title": "user",
+          "href": "/user/iguazio",
+          "avatar": {
+            "color": "#393b79",
+            "kind": "user",
+            "hash": "b4378112502a6ac5285ea5d1dd7dc788",
+            "name": "iguazio"
+          },
+          "name": "iguazio"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "",
+        "href": "/repository/che-paquetes/che-nodejs10-community",
+        "last_modified": 1578629134,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-nodejs10-community",
+        "title": "repo",
+        "popularity": 0,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/che-paquetes",
+          "avatar": {
+            "color": "#bcbd22",
+            "kind": "org",
+            "hash": "7014db20a76caf9b42dff659ddfdb8c5",
+            "name": "che-paquetes"
+          },
+          "name": "che-paquetes"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "Camelk sidecar container for plug-in tooling\n\nDockerfile is from [https://github.com/che-dockerfiles/che-sidecar-camelk](https://github.com/che-dockerfiles/che-sidecar-camelk) repository",
+        "href": "/repository/eclipse/che-sidecar-camelk",
+        "last_modified": 1580892948,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-sidecar-camelk",
+        "title": "repo",
+        "popularity": 27,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/eclipse",
+          "avatar": {
+            "color": "#9c9ede",
+            "kind": "org",
+            "hash": "d741333ec3a398b44a1c42436ee5f3d3",
+            "name": "eclipse"
+          },
+          "name": "eclipse"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "",
+        "href": "/repository/eclipse/che-theia-dev",
+        "last_modified": 1580953344,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-theia-dev",
+        "title": "repo",
+        "popularity": 56,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/eclipse",
+          "avatar": {
+            "color": "#9c9ede",
+            "kind": "org",
+            "hash": "d741333ec3a398b44a1c42436ee5f3d3",
+            "name": "eclipse"
+          },
+          "name": "eclipse"
+        },
+        "score": 4,
+        "stars": 0
+      }
+    ],
+    "page_size": 10,
+    "page": 6
+  },
+  {
+    "has_additional": true,
+    "start_index": 60,
+    "results": [
+      {
+        "description": "",
+        "href": "/repository/sunix/che-remote-plugin-ansible",
+        "last_modified": 1569366421,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-remote-plugin-ansible",
+        "title": "repo",
+        "popularity": 1,
+        "namespace": {
+          "kind": "user",
+          "score": 1,
+          "title": "user",
+          "href": "/user/sunix",
+          "avatar": {
+            "color": "#31a354",
+            "kind": "user",
+            "hash": "99149e019f2ba48b0f7d19a5c2c3d4e0",
+            "name": "sunix"
+          },
+          "name": "sunix"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": null,
+        "href": "/repository/influxdb/idpe-envoy-sidecar",
+        "last_modified": 1543536016,
+        "is_public": true,
+        "kind": "repository",
+        "name": "idpe-envoy-sidecar",
+        "title": "repo",
+        "popularity": 0,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/influxdb",
+          "avatar": {
+            "color": "#ffbb78",
+            "kind": "org",
+            "hash": "a36d4d78fbb1b2cbcf7948e962e64771",
+            "name": "influxdb"
+          },
+          "name": "influxdb"
+        },
+        "score": 4,
+        "stars": 1
+      },
+      {
+        "description": null,
+        "href": "/repository/dfestal/che-keycloak",
+        "last_modified": 1562247447,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-keycloak",
+        "title": "repo",
+        "popularity": 0,
+        "namespace": {
+          "kind": "user",
+          "score": 1,
+          "title": "user",
+          "href": "/user/dfestal",
+          "avatar": {
+            "color": "#b5cf6b",
+            "kind": "user",
+            "hash": "bac405053dc12889bfc94923f75ebf9f",
+            "name": "dfestal"
+          },
+          "name": "dfestal"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": null,
+        "href": "/repository/vdice/git-sidecar",
+        "last_modified": 1575582303,
+        "is_public": true,
+        "kind": "repository",
+        "name": "git-sidecar",
+        "title": "repo",
+        "popularity": 0,
+        "namespace": {
+          "kind": "user",
+          "score": 1,
+          "title": "user",
+          "href": "/user/vdice",
+          "avatar": {
+            "color": "#c7c7c7",
+            "kind": "user",
+            "hash": "6f117bf9f021faefea81038ca36314dc",
+            "name": "vdice"
+          },
+          "name": "vdice"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "[Dockerfile](https://github.com/eclipse-cdt/cdt-infra/blob/master/docker/cdt-infra-eclipse-full/ubuntu-16.04/Dockerfile)",
+        "href": "/repository/eclipse-cdt/cdt-infra-eclipse-full",
+        "last_modified": 1578419881,
+        "is_public": true,
+        "kind": "repository",
+        "name": "cdt-infra-eclipse-full",
+        "title": "repo",
+        "popularity": 25,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/eclipse-cdt",
+          "avatar": {
+            "color": "#2ca02c",
+            "kind": "org",
+            "hash": "e4213ced6f3b7109b4eb5ca1ae3a4511",
+            "name": "eclipse-cdt"
+          },
+          "name": "eclipse-cdt"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "Dependency Analyics sidecar container for plug-in tooling\n\nDockerfile is from [https://github.com/che-dockerfiles/che-sidecar-dependency-analytics](https://github.com/che-dockerfiles/che-sidecar-dependency-analytics) repository",
+        "href": "/repository/eclipse/che-sidecar-dependency-analytics",
+        "last_modified": 1575465224,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-sidecar-dependency-analytics",
+        "title": "repo",
+        "popularity": 10,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/eclipse",
+          "avatar": {
+            "color": "#9c9ede",
+            "kind": "org",
+            "hash": "d741333ec3a398b44a1c42436ee5f3d3",
+            "name": "eclipse"
+          },
+          "name": "eclipse"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "",
+        "href": "/repository/tenjin/maxmind-geoip-sidecar",
+        "last_modified": 1552523843,
+        "is_public": true,
+        "kind": "repository",
+        "name": "maxmind-geoip-sidecar",
+        "title": "repo",
+        "popularity": 30,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/tenjin",
+          "avatar": {
+            "color": "#d62728",
+            "kind": "org",
+            "hash": "26328804f652d9d3831ed4adffd65851",
+            "name": "tenjin"
+          },
+          "name": "tenjin"
+        },
+        "score": 4,
+        "stars": 1
+      },
+      {
+        "description": "",
+        "href": "/repository/uefadevops/sidecar-xenial",
+        "last_modified": 1559222319,
+        "is_public": true,
+        "kind": "repository",
+        "name": "sidecar-xenial",
+        "title": "repo",
+        "popularity": 8,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/uefadevops",
+          "avatar": {
+            "color": "#e7ba52",
+            "kind": "org",
+            "hash": "7ebcf2f4e05e505094ba418eec6bdf1a",
+            "name": "uefadevops"
+          },
+          "name": "uefadevops"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "",
+        "href": "/repository/mcouliba/che-cloud-native",
+        "last_modified": 1571662114,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-cloud-native",
+        "title": "repo",
+        "popularity": 0,
+        "namespace": {
+          "kind": "user",
+          "score": 1,
+          "title": "user",
+          "href": "/user/mcouliba",
+          "avatar": {
+            "color": "#9edae5",
+            "kind": "user",
+            "hash": "b3c2caa2693d0c08675afb6a745e1786",
+            "name": "mcouliba"
+          },
+          "name": "mcouliba"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": null,
+        "href": "/repository/nickboldt/airgap-che-server",
+        "last_modified": 1564072643,
+        "is_public": true,
+        "kind": "repository",
+        "name": "airgap-che-server",
+        "title": "repo",
+        "popularity": 0,
+        "namespace": {
+          "kind": "user",
+          "score": 1,
+          "title": "user",
+          "href": "/user/nickboldt",
+          "avatar": {
+            "color": "#9edae5",
+            "kind": "user",
+            "hash": "33935824070f6c5bc73c49141f7f6510",
+            "name": "nickboldt"
+          },
+          "name": "nickboldt"
+        },
+        "score": 4,
+        "stars": 0
+      }
+    ],
+    "page_size": 10,
+    "page": 7
+  },
+  {
+    "has_additional": true,
+    "start_index": 70,
+    "results": [
+      {
+        "description": "",
+        "href": "/repository/eclipse/che-docs",
+        "last_modified": 1580466378,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-docs",
+        "title": "repo",
+        "popularity": 65,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/eclipse",
+          "avatar": {
+            "color": "#9c9ede",
+            "kind": "org",
+            "hash": "d741333ec3a398b44a1c42436ee5f3d3",
+            "name": "eclipse"
+          },
+          "name": "eclipse"
+        },
+        "score": 4,
+        "stars": 1
+      },
+      {
+        "description": null,
+        "href": "/repository/dfestal/che-workspace-crd-rest-apis",
+        "last_modified": 1571325367,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-workspace-crd-rest-apis",
+        "title": "repo",
+        "popularity": 27,
+        "namespace": {
+          "kind": "user",
+          "score": 1,
+          "title": "user",
+          "href": "/user/dfestal",
+          "avatar": {
+            "color": "#b5cf6b",
+            "kind": "user",
+            "hash": "bac405053dc12889bfc94923f75ebf9f",
+            "name": "dfestal"
+          },
+          "name": "dfestal"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "https://github.com/eclipse/che/blob/master/dockerfiles/endpoint-watcher",
+        "href": "/repository/eclipse/che-endpoint-watcher",
+        "last_modified": 1580952181,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-endpoint-watcher",
+        "title": "repo",
+        "popularity": 90,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/eclipse",
+          "avatar": {
+            "color": "#9c9ede",
+            "kind": "org",
+            "hash": "d741333ec3a398b44a1c42436ee5f3d3",
+            "name": "eclipse"
+          },
+          "name": "eclipse"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "Community `quarkus` image with Java + GraalVM, patched to support Eclipse Che workspaces",
+        "href": "/repository/eclipse/che-quarkus",
+        "last_modified": 1581034200,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-quarkus",
+        "title": "repo",
+        "popularity": 57,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/eclipse",
+          "avatar": {
+            "color": "#9c9ede",
+            "kind": "org",
+            "hash": "d741333ec3a398b44a1c42436ee5f3d3",
+            "name": "eclipse"
+          },
+          "name": "eclipse"
+        },
+        "score": 4,
+        "stars": 1
+      },
+      {
+        "description": "",
+        "href": "/repository/mcouliba/che-plugin-registry",
+        "last_modified": 1581005483,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-plugin-registry",
+        "title": "repo",
+        "popularity": 2,
+        "namespace": {
+          "kind": "user",
+          "score": 1,
+          "title": "user",
+          "href": "/user/mcouliba",
+          "avatar": {
+            "color": "#9edae5",
+            "kind": "user",
+            "hash": "b3c2caa2693d0c08675afb6a745e1786",
+            "name": "mcouliba"
+          },
+          "name": "mcouliba"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": null,
+        "href": "/repository/solo-io/gloo-envoy-sidecar-wrapper",
+        "last_modified": 1579650325,
+        "is_public": true,
+        "kind": "repository",
+        "name": "gloo-envoy-sidecar-wrapper",
+        "title": "repo",
+        "popularity": 70,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/solo-io",
+          "avatar": {
+            "color": "#393b79",
+            "kind": "org",
+            "hash": "14864623e136c4c755c9484a2ae4ecd6",
+            "name": "solo-io"
+          },
+          "name": "solo-io"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": null,
+        "href": "/repository/mvala/che-operator",
+        "last_modified": 1580150926,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-operator",
+        "title": "repo",
+        "popularity": 0,
+        "namespace": {
+          "kind": "user",
+          "score": 1,
+          "title": "user",
+          "href": "/user/mvala",
+          "avatar": {
+            "color": "#aec7e8",
+            "kind": "user",
+            "hash": "a1c3d493f1ec81aee40c1a0f26abce3b",
+            "name": "mvala"
+          },
+          "name": "mvala"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "",
+        "href": "/repository/pefernan/che-plugins",
+        "last_modified": 1570709234,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-plugins",
+        "title": "repo",
+        "popularity": 0,
+        "namespace": {
+          "kind": "user",
+          "score": 1,
+          "title": "user",
+          "href": "/user/pefernan",
+          "avatar": {
+            "color": "#31a354",
+            "kind": "user",
+            "hash": "f99e971c52ef2cfca112e836ceee8572",
+            "name": "pefernan"
+          },
+          "name": "pefernan"
+        },
+        "score": 4,
+        "stars": 1
+      },
+      {
+        "description": null,
+        "href": "/repository/cloudfirst/ansible-builder-sidecar",
+        "last_modified": 1574443845,
+        "is_public": true,
+        "kind": "repository",
+        "name": "ansible-builder-sidecar",
+        "title": "repo",
+        "popularity": 0,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/cloudfirst",
+          "avatar": {
+            "color": "#bcbd22",
+            "kind": "org",
+            "hash": "1058a1f057b98afc0167161552aaed41",
+            "name": "cloudfirst"
+          },
+          "name": "cloudfirst"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": null,
+        "href": "/repository/tgeorge/che-workspace-telemetry-woopra-backend",
+        "last_modified": 1579112809,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-workspace-telemetry-woopra-backend",
+        "title": "repo",
+        "popularity": 25,
+        "namespace": {
+          "kind": "user",
+          "score": 1,
+          "title": "user",
+          "href": "/user/tgeorge",
+          "avatar": {
+            "color": "#5254a3",
+            "kind": "user",
+            "hash": "d5d0f4a22ac7d1581c0343e905410697",
+            "name": "tgeorge"
+          },
+          "name": "tgeorge"
+        },
+        "score": 4,
+        "stars": 0
+      }
+    ],
+    "page_size": 10,
+    "page": 8
+  },
+  {
+    "has_additional": true,
+    "start_index": 80,
+    "results": [
+      {
+        "description": "",
+        "href": "/repository/gattytto/che-sidecar-bazel",
+        "last_modified": 1581004422,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-sidecar-bazel",
+        "title": "repo",
+        "popularity": 43,
+        "namespace": {
+          "kind": "user",
+          "score": 1,
+          "title": "user",
+          "href": "/user/gattytto",
+          "avatar": {
+            "color": "#31a354",
+            "kind": "user",
+            "hash": "595ba78687c4ce74da44515ffdf57c8f",
+            "name": "gattytto"
+          },
+          "name": "gattytto"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": null,
+        "href": "/repository/jlieb/cassandra-sidecar",
+        "last_modified": 1568378390,
+        "is_public": true,
+        "kind": "repository",
+        "name": "cassandra-sidecar",
+        "title": "repo",
+        "popularity": 0,
+        "namespace": {
+          "kind": "user",
+          "score": 1,
+          "title": "user",
+          "href": "/user/jlieb",
+          "avatar": {
+            "color": "#c5b0d5",
+            "kind": "user",
+            "hash": "c9429824e6c8bf0bdd744ca0bfedee2b",
+            "name": "jlieb"
+          },
+          "name": "jlieb"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": null,
+        "href": "/repository/mcouliba/che-remote-plugin-soloio-squash-0.5.15",
+        "last_modified": 1568204635,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-remote-plugin-soloio-squash-0.5.15",
+        "title": "repo",
+        "popularity": 0,
+        "namespace": {
+          "kind": "user",
+          "score": 1,
+          "title": "user",
+          "href": "/user/mcouliba",
+          "avatar": {
+            "color": "#9edae5",
+            "kind": "user",
+            "hash": "b3c2caa2693d0c08675afb6a745e1786",
+            "name": "mcouliba"
+          },
+          "name": "mcouliba"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "",
+        "href": "/repository/araszka/kerberos-sidecar",
+        "last_modified": 1541067197,
+        "is_public": true,
+        "kind": "repository",
+        "name": "kerberos-sidecar",
+        "title": "repo",
+        "popularity": 10,
+        "namespace": {
+          "kind": "user",
+          "score": 1,
+          "title": "user",
+          "href": "/user/araszka",
+          "avatar": {
+            "color": "#9edae5",
+            "kind": "user",
+            "hash": "f319b4e2b6b64349dffb468063ea1f11",
+            "name": "araszka"
+          },
+          "name": "araszka"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": null,
+        "href": "/repository/tgeorge/che-operator",
+        "last_modified": 1579881667,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-operator",
+        "title": "repo",
+        "popularity": 0,
+        "namespace": {
+          "kind": "user",
+          "score": 1,
+          "title": "user",
+          "href": "/user/tgeorge",
+          "avatar": {
+            "color": "#5254a3",
+            "kind": "user",
+            "hash": "d5d0f4a22ac7d1581c0343e905410697",
+            "name": "tgeorge"
+          },
+          "name": "tgeorge"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": null,
+        "href": "/repository/nickboldt/airgap-che-plugin-registry",
+        "last_modified": 1571414679,
+        "is_public": true,
+        "kind": "repository",
+        "name": "airgap-che-plugin-registry",
+        "title": "repo",
+        "popularity": 0,
+        "namespace": {
+          "kind": "user",
+          "score": 1,
+          "title": "user",
+          "href": "/user/nickboldt",
+          "avatar": {
+            "color": "#9edae5",
+            "kind": "user",
+            "hash": "33935824070f6c5bc73c49141f7f6510",
+            "name": "nickboldt"
+          },
+          "name": "nickboldt"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": null,
+        "href": "/repository/dfestal/che-unified-plugin-broker",
+        "last_modified": 1564569548,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-unified-plugin-broker",
+        "title": "repo",
+        "popularity": 0,
+        "namespace": {
+          "kind": "user",
+          "score": 1,
+          "title": "user",
+          "href": "/user/dfestal",
+          "avatar": {
+            "color": "#b5cf6b",
+            "kind": "user",
+            "hash": "bac405053dc12889bfc94923f75ebf9f",
+            "name": "dfestal"
+          },
+          "name": "dfestal"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": null,
+        "href": "/repository/tgeorge/che-server",
+        "last_modified": 1579798080,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-server",
+        "title": "repo",
+        "popularity": 0,
+        "namespace": {
+          "kind": "user",
+          "score": 1,
+          "title": "user",
+          "href": "/user/tgeorge",
+          "avatar": {
+            "color": "#5254a3",
+            "kind": "user",
+            "hash": "d5d0f4a22ac7d1581c0343e905410697",
+            "name": "tgeorge"
+          },
+          "name": "tgeorge"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "",
+        "href": "/repository/che-incubator/che-workspace-crd-controller",
+        "last_modified": 1579099314,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-workspace-crd-controller",
+        "title": "repo",
+        "popularity": 10,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/che-incubator",
+          "avatar": {
+            "color": "#9edae5",
+            "kind": "org",
+            "hash": "53fb68577c3bd5f7cb7c8a0867fdb505",
+            "name": "che-incubator"
+          },
+          "name": "che-incubator"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": null,
+        "href": "/repository/nickboldt/airgap-che-keycloak",
+        "last_modified": 1564072645,
+        "is_public": true,
+        "kind": "repository",
+        "name": "airgap-che-keycloak",
+        "title": "repo",
+        "popularity": 0,
+        "namespace": {
+          "kind": "user",
+          "score": 1,
+          "title": "user",
+          "href": "/user/nickboldt",
+          "avatar": {
+            "color": "#9edae5",
+            "kind": "user",
+            "hash": "33935824070f6c5bc73c49141f7f6510",
+            "name": "nickboldt"
+          },
+          "name": "nickboldt"
+        },
+        "score": 4,
+        "stars": 0
+      }
+    ],
+    "page_size": 10,
+    "page": 9
+  },
+  {
+    "has_additional": true,
+    "start_index": 90,
+    "results": [
+      {
+        "description": "",
+        "href": "/repository/mvala/che-server",
+        "last_modified": 1578477837,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-server",
+        "title": "repo",
+        "popularity": 0,
+        "namespace": {
+          "kind": "user",
+          "score": 1,
+          "title": "user",
+          "href": "/user/mvala",
+          "avatar": {
+            "color": "#aec7e8",
+            "kind": "user",
+            "hash": "a1c3d493f1ec81aee40c1a0f26abce3b",
+            "name": "mvala"
+          },
+          "name": "mvala"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": null,
+        "href": "/repository/mcouliba/che-remote-plugin-openshift-connector-0.0.23",
+        "last_modified": 1566590764,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-remote-plugin-openshift-connector-0.0.23",
+        "title": "repo",
+        "popularity": 0,
+        "namespace": {
+          "kind": "user",
+          "score": 1,
+          "title": "user",
+          "href": "/user/mcouliba",
+          "avatar": {
+            "color": "#9edae5",
+            "kind": "user",
+            "hash": "b3c2caa2693d0c08675afb6a745e1786",
+            "name": "mcouliba"
+          },
+          "name": "mcouliba"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": null,
+        "href": "/repository/datawire/amb-sidecar-token-plugin",
+        "last_modified": 1550589138,
+        "is_public": true,
+        "kind": "repository",
+        "name": "amb-sidecar-token-plugin",
+        "title": "repo",
+        "popularity": 0,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/datawire",
+          "avatar": {
+            "color": "#b5cf6b",
+            "kind": "org",
+            "hash": "dab6370f74f4b5ad1104049806fff646",
+            "name": "datawire"
+          },
+          "name": "datawire"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "",
+        "href": "/repository/kummallinen/cdt-infra-eclipse-full",
+        "last_modified": 1559677514,
+        "is_public": true,
+        "kind": "repository",
+        "name": "cdt-infra-eclipse-full",
+        "title": "repo",
+        "popularity": 0,
+        "namespace": {
+          "kind": "user",
+          "score": 1,
+          "title": "user",
+          "href": "/user/kummallinen",
+          "avatar": {
+            "color": "#ffbb78",
+            "kind": "user",
+            "hash": "e39bfcdb916fd192326b01d6b9554b9b",
+            "name": "kummallinen"
+          },
+          "name": "kummallinen"
+        },
+        "score": 4,
+        "stars": 1
+      },
+      {
+        "description": "",
+        "href": "/repository/victorock/che-remote-plugin-ansible",
+        "last_modified": 1569257386,
+        "is_public": true,
+        "kind": "repository",
+        "name": "che-remote-plugin-ansible",
+        "title": "repo",
+        "popularity": 0,
+        "namespace": {
+          "kind": "user",
+          "score": 1,
+          "title": "user",
+          "href": "/user/victorock",
+          "avatar": {
+            "color": "#bcbd22",
+            "kind": "user",
+            "hash": "909555df3a2f14326b24b4067606dad0",
+            "name": "victorock"
+          },
+          "name": "victorock"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "",
+        "href": "/repository/turner/secretsmanager-sidecar",
+        "last_modified": 1575472745,
+        "is_public": true,
+        "kind": "repository",
+        "name": "secretsmanager-sidecar",
+        "title": "repo",
+        "popularity": 5,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/turner",
+          "avatar": {
+            "color": "#31a354",
+            "kind": "org",
+            "hash": "b9854e03b082d106ba3c80395d343c0d",
+            "name": "turner"
+          },
+          "name": "turner"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "",
+        "href": "/repository/lunarway/grafana-sidecar",
+        "last_modified": 1574932604,
+        "is_public": true,
+        "kind": "repository",
+        "name": "grafana-sidecar",
+        "title": "repo",
+        "popularity": 8,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/lunarway",
+          "avatar": {
+            "color": "#c7c7c7",
+            "kind": "org",
+            "hash": "4fe3867955507d9e0b3970aac1b3d303",
+            "name": "lunarway"
+          },
+          "name": "lunarway"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "",
+        "href": "/repository/abramsz/k8s-dns-sidecar-amd64",
+        "last_modified": 1511857218,
+        "is_public": true,
+        "kind": "repository",
+        "name": "k8s-dns-sidecar-amd64",
+        "title": "repo",
+        "popularity": 0,
+        "namespace": {
+          "kind": "user",
+          "score": 1,
+          "title": "user",
+          "href": "/user/abramsz",
+          "avatar": {
+            "color": "#b5cf6b",
+            "kind": "user",
+            "hash": "baeb464558150ed1ddc5e062e0caa4e6",
+            "name": "abramsz"
+          },
+          "name": "abramsz"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "",
+        "href": "/repository/teveo/k8s-dns-sidecar-amd64",
+        "last_modified": 1519735917,
+        "is_public": true,
+        "kind": "repository",
+        "name": "k8s-dns-sidecar-amd64",
+        "title": "repo",
+        "popularity": 0,
+        "namespace": {
+          "kind": "organization",
+          "score": 1,
+          "title": "org",
+          "href": "/organization/teveo",
+          "avatar": {
+            "color": "#a55194",
+            "kind": "org",
+            "hash": "bf969d9384f1af278d5324712f9037e0",
+            "name": "teveo"
+          },
+          "name": "teveo"
+        },
+        "score": 4,
+        "stars": 0
+      },
+      {
+        "description": "",
+        "href": "/repository/charleslee1120/k8s-dns-sidecar-amd64",
+        "last_modified": 1541472658,
+        "is_public": true,
+        "kind": "repository",
+        "name": "k8s-dns-sidecar-amd64",
+        "title": "repo",
+        "popularity": 0,
+        "namespace": {
+          "kind": "user",
+          "score": 1,
+          "title": "user",
+          "href": "/user/charleslee1120",
+          "avatar": {
+            "color": "#f7b6d2",
+            "kind": "user",
+            "hash": "0deafcaeb5fa550a954ba378452eb1c6",
+            "name": "charleslee1120"
+          },
+          "name": "charleslee1120"
+        },
+        "score": 4,
+        "stars": 0
+      }
+    ],
+    "page_size": 10,
+    "page": 10
+  }
+]

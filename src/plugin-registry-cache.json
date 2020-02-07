@@ -1,0 +1,2054 @@
+[
+  {
+    "description": "COBOL, JCL, PL/I & DIR syntax support",
+    "displayName": "COBOL",
+    "id": "bitlang/cobol/5.0.6",
+    "links": {
+      "self": "/v3/plugins/bitlang/cobol/5.0.6/"
+    },
+    "name": "cobol",
+    "publisher": "bitlang",
+    "type": "VS Code extension",
+    "version": "5.0.6"
+  },
+  {
+    "description": "COBOL, JCL, PL/I & DIR syntax support",
+    "displayName": "COBOL",
+    "id": "bitlang/cobol/latest",
+    "links": {
+      "self": "/v3/plugins/bitlang/cobol/latest/"
+    },
+    "name": "cobol",
+    "publisher": "bitlang",
+    "type": "VS Code extension",
+    "version": "latest"
+  },
+  {
+    "description": "COBOL Language Support standardizes the communication between language tooling and your code editor using the Language Server Protocol (LSP)",
+    "displayName": "COBOL Language Support",
+    "id": "broadcommfd/cobol-language-support/0.8.3",
+    "links": {
+      "self": "/v3/plugins/broadcommfd/cobol-language-support/0.8.3/"
+    },
+    "name": "cobol-language-support",
+    "publisher": "broadcommfd",
+    "type": "VS Code extension",
+    "version": "0.8.3"
+  },
+  {
+    "description": "COBOL Language Support standardizes the communication between language tooling and your code editor using the Language Server Protocol (LSP)",
+    "displayName": "COBOL Language Support",
+    "id": "broadcommfd/cobol-language-support/0.9.1",
+    "links": {
+      "self": "/v3/plugins/broadcommfd/cobol-language-support/0.9.1/"
+    },
+    "name": "cobol-language-support",
+    "publisher": "broadcommfd",
+    "type": "VS Code extension",
+    "version": "0.9.1"
+  },
+  {
+    "description": "COBOL Language Support standardizes the communication between language tooling and your code editor using the Language Server Protocol (LSP)",
+    "displayName": "COBOL Language Support",
+    "id": "broadcommfd/cobol-language-support/latest",
+    "links": {
+      "self": "/v3/plugins/broadcommfd/cobol-language-support/latest/"
+    },
+    "name": "cobol-language-support",
+    "publisher": "broadcommfd",
+    "type": "VS Code extension",
+    "version": "latest"
+  },
+  {
+    "description": "Debugger for Mainframe provides the debugging interface to CA InterTest™. This extension provides a modern debug experience for COBOL applications running in a CICS region",
+    "displayName": "Debugger for Mainframe",
+    "id": "broadcommfd/debugger-for-mainframe/1.0.0",
+    "links": {
+      "self": "/v3/plugins/broadcommfd/debugger-for-mainframe/1.0.0/"
+    },
+    "name": "debugger-for-mainframe",
+    "publisher": "broadcommfd",
+    "type": "VS Code extension",
+    "version": "1.0.0"
+  },
+  {
+    "description": "Debugger for Mainframe provides the debugging interface to CA InterTest™. This extension provides a modern debug experience for COBOL applications running in a CICS region",
+    "displayName": "Debugger for Mainframe",
+    "id": "broadcommfd/debugger-for-mainframe/latest",
+    "links": {
+      "self": "/v3/plugins/broadcommfd/debugger-for-mainframe/latest/"
+    },
+    "name": "debugger-for-mainframe",
+    "publisher": "broadcommfd",
+    "type": "VS Code extension",
+    "version": "latest"
+  },
+  {
+    "description": "Explorer for Endevor",
+    "displayName": "Explorer for Endevor",
+    "id": "broadcommfd/explorer-for-endevor/0.9.0",
+    "links": {
+      "self": "/v3/plugins/broadcommfd/explorer-for-endevor/0.9.0/"
+    },
+    "name": "explorer-for-endevor",
+    "publisher": "broadcommfd",
+    "type": "VS Code extension",
+    "version": "0.9.0"
+  },
+  {
+    "description": "Explorer for Endevor",
+    "displayName": "Explorer for Endevor",
+    "id": "broadcommfd/explorer-for-endevor/latest",
+    "links": {
+      "self": "/v3/plugins/broadcommfd/explorer-for-endevor/latest/"
+    },
+    "name": "explorer-for-endevor",
+    "publisher": "broadcommfd",
+    "type": "VS Code extension",
+    "version": "latest"
+  },
+  {
+    "description": "Code completion, highlighting, browsing and validation for High Level Assembler",
+    "displayName": "HLASM Language Support",
+    "id": "broadcommfd/hlasm-language-support/0.8.1",
+    "links": {
+      "self": "/v3/plugins/broadcommfd/hlasm-language-support/0.8.1/"
+    },
+    "name": "hlasm-language-support",
+    "publisher": "broadcommfd",
+    "type": "VS Code extension",
+    "version": "0.8.1"
+  },
+  {
+    "description": "Code completion, highlighting, browsing and validation for High Level Assembler",
+    "displayName": "HLASM Language Support",
+    "id": "broadcommfd/hlasm-language-support/latest",
+    "links": {
+      "self": "/v3/plugins/broadcommfd/hlasm-language-support/latest/"
+    },
+    "name": "hlasm-language-support",
+    "publisher": "broadcommfd",
+    "type": "VS Code extension",
+    "version": "latest"
+  },
+  {
+    "deprecate": {
+      "automigrate": true,
+      "migrateTo": "redhat/vscode-apache-camel/latest"
+    },
+    "description": "This VS Code extension provides support for Apache Camel.",
+    "displayName": "Language Support for Apache Camel",
+    "id": "camel-tooling/vscode-apache-camel/0.0.14",
+    "links": {
+      "self": "/v3/plugins/camel-tooling/vscode-apache-camel/0.0.14/"
+    },
+    "name": "vscode-apache-camel",
+    "publisher": "camel-tooling",
+    "type": "VS Code extension",
+    "version": "0.0.14"
+  },
+  {
+    "deprecate": {
+      "automigrate": true,
+      "migrateTo": "redhat/vscode-apache-camel/latest"
+    },
+    "description": "This VS Code extension provides support for Apache Camel.",
+    "displayName": "Language Support for Apache Camel",
+    "id": "camel-tooling/vscode-apache-camel/latest",
+    "links": {
+      "self": "/v3/plugins/camel-tooling/vscode-apache-camel/latest/"
+    },
+    "name": "vscode-apache-camel",
+    "publisher": "camel-tooling",
+    "type": "VS Code extension",
+    "version": "latest"
+  },
+  {
+    "description": "A open source distribution of Visual Studio Code as a cloud IDE",
+    "displayName": "code-server",
+    "id": "cdr/code-server/2.1523-vsc1.38.1",
+    "links": {
+      "self": "/v3/plugins/cdr/code-server/2.1523-vsc1.38.1/"
+    },
+    "name": "code-server",
+    "publisher": "cdr",
+    "type": "Che Editor",
+    "version": "2.1523-vsc1.38.1"
+  },
+  {
+    "description": "A open source distribution of Visual Studio Code as a cloud IDE",
+    "displayName": "code-server",
+    "id": "cdr/code-server/2.1650-vsc1.39.2",
+    "links": {
+      "self": "/v3/plugins/cdr/code-server/2.1650-vsc1.39.2/"
+    },
+    "name": "code-server",
+    "publisher": "cdr",
+    "type": "Che Editor",
+    "version": "2.1650-vsc1.39.2"
+  },
+  {
+    "description": "A open source distribution of Visual Studio Code as a cloud IDE",
+    "displayName": "code-server",
+    "id": "cdr/code-server/latest",
+    "links": {
+      "self": "/v3/plugins/cdr/code-server/latest/"
+    },
+    "name": "code-server",
+    "publisher": "cdr",
+    "type": "Che Editor",
+    "version": "latest"
+  },
+  {
+    "description": "A open source distribution of Visual Studio Code as a cloud IDE",
+    "displayName": "code-server",
+    "id": "cdr/code-server/next",
+    "links": {
+      "self": "/v3/plugins/cdr/code-server/next/"
+    },
+    "name": "code-server",
+    "publisher": "cdr",
+    "type": "Che Editor",
+    "version": "next"
+  },
+  {
+    "description": "C/C++ intelliSense, debugging and code browsing",
+    "displayName": "C/C++ tools",
+    "id": "che-incubator/cpptools/0.1",
+    "links": {
+      "self": "/v3/plugins/che-incubator/cpptools/0.1/"
+    },
+    "name": "cpptools",
+    "publisher": "che-incubator",
+    "type": "VS Code extension",
+    "version": 0.1
+  },
+  {
+    "description": "C/C++ intelliSense, debugging and code browsing",
+    "displayName": "C/C++ tools",
+    "id": "che-incubator/cpptools/latest",
+    "links": {
+      "self": "/v3/plugins/che-incubator/cpptools/latest/"
+    },
+    "name": "cpptools",
+    "publisher": "che-incubator",
+    "type": "VS Code extension",
+    "version": "latest"
+  },
+  {
+    "description": "Che Theia Dev Plugin",
+    "displayName": "Che Theia Dev Plugin",
+    "id": "che-incubator/theia-dev/0.0.1",
+    "links": {
+      "self": "/v3/plugins/che-incubator/theia-dev/0.0.1/"
+    },
+    "name": "theia-dev",
+    "publisher": "che-incubator",
+    "type": "Che Plugin",
+    "version": "0.0.1"
+  },
+  {
+    "description": "Che Theia Dev Plugin",
+    "displayName": "Che Theia Dev Plugin",
+    "id": "che-incubator/theia-dev/latest",
+    "links": {
+      "self": "/v3/plugins/che-incubator/theia-dev/latest/"
+    },
+    "name": "theia-dev",
+    "publisher": "che-incubator",
+    "type": "Che Plugin",
+    "version": "latest"
+  },
+  {
+    "description": "Typescript language features",
+    "displayName": "Typescript",
+    "id": "che-incubator/typescript/1.30.2",
+    "links": {
+      "self": "/v3/plugins/che-incubator/typescript/1.30.2/"
+    },
+    "name": "typescript",
+    "publisher": "che-incubator",
+    "type": "VS Code extension",
+    "version": "1.30.2"
+  },
+  {
+    "description": "Typescript language features",
+    "displayName": "Typescript",
+    "id": "che-incubator/typescript/1.35.1",
+    "links": {
+      "self": "/v3/plugins/che-incubator/typescript/1.35.1/"
+    },
+    "name": "typescript",
+    "publisher": "che-incubator",
+    "type": "VS Code extension",
+    "version": "1.35.1"
+  },
+  {
+    "description": "Typescript language features",
+    "displayName": "Typescript",
+    "id": "che-incubator/typescript/latest",
+    "links": {
+      "self": "/v3/plugins/che-incubator/typescript/latest/"
+    },
+    "name": "typescript",
+    "publisher": "che-incubator",
+    "type": "VS Code extension",
+    "version": "latest"
+  },
+  {
+    "description": "Eclipse Dirigible as App Development Platform for Eclipse Che",
+    "displayName": "Eclipse Dirigible",
+    "id": "dirigiblelabs/dirigible/3.4.0",
+    "links": {
+      "self": "/v3/plugins/dirigiblelabs/dirigible/3.4.0/"
+    },
+    "name": "dirigible",
+    "publisher": "dirigiblelabs",
+    "type": "Che Editor",
+    "version": "3.4.0"
+  },
+  {
+    "description": "Eclipse Dirigible as App Development Platform for Eclipse Che",
+    "displayName": "Eclipse Dirigible",
+    "id": "dirigiblelabs/dirigible/latest",
+    "links": {
+      "self": "/v3/plugins/dirigiblelabs/dirigible/latest/"
+    },
+    "name": "dirigible",
+    "publisher": "dirigiblelabs",
+    "type": "Che Editor",
+    "version": "latest"
+  },
+  {
+    "description": "Che Plug-in with che-machine-exec service to provide creation terminal or tasks for Eclipse CHE workspace machines.",
+    "displayName": "Che machine-exec Service",
+    "id": "eclipse/che-machine-exec-plugin/0.0.1",
+    "links": {
+      "self": "/v3/plugins/eclipse/che-machine-exec-plugin/0.0.1/"
+    },
+    "name": "che-machine-exec-plugin",
+    "publisher": "eclipse",
+    "type": "Che Plugin",
+    "version": "0.0.1"
+  },
+  {
+    "description": "Che Plug-in with che-machine-exec service to provide creation terminal or tasks for Eclipse CHE workspace containers.",
+    "displayName": "Che machine-exec Service",
+    "id": "eclipse/che-machine-exec-plugin/7.0.0",
+    "links": {
+      "self": "/v3/plugins/eclipse/che-machine-exec-plugin/7.0.0/"
+    },
+    "name": "che-machine-exec-plugin",
+    "publisher": "eclipse",
+    "type": "Che Plugin",
+    "version": "7.0.0"
+  },
+  {
+    "description": "Che Plug-in with che-machine-exec service to provide creation terminal or tasks for Eclipse CHE workspace containers.",
+    "displayName": "Che machine-exec Service",
+    "id": "eclipse/che-machine-exec-plugin/7.1.0",
+    "links": {
+      "self": "/v3/plugins/eclipse/che-machine-exec-plugin/7.1.0/"
+    },
+    "name": "che-machine-exec-plugin",
+    "publisher": "eclipse",
+    "type": "Che Plugin",
+    "version": "7.1.0"
+  },
+  {
+    "description": "Che Plug-in with che-machine-exec service to provide creation terminal or tasks for Eclipse CHE workspace containers.",
+    "displayName": "Che machine-exec Service",
+    "id": "eclipse/che-machine-exec-plugin/7.2.0",
+    "links": {
+      "self": "/v3/plugins/eclipse/che-machine-exec-plugin/7.2.0/"
+    },
+    "name": "che-machine-exec-plugin",
+    "publisher": "eclipse",
+    "type": "Che Plugin",
+    "version": "7.2.0"
+  },
+  {
+    "description": "Che Plug-in with che-machine-exec service to provide creation terminal or tasks for Eclipse CHE workspace containers.",
+    "displayName": "Che machine-exec Service",
+    "id": "eclipse/che-machine-exec-plugin/7.3.0",
+    "links": {
+      "self": "/v3/plugins/eclipse/che-machine-exec-plugin/7.3.0/"
+    },
+    "name": "che-machine-exec-plugin",
+    "publisher": "eclipse",
+    "type": "Che Plugin",
+    "version": "7.3.0"
+  },
+  {
+    "description": "Che Plug-in with che-machine-exec service to provide creation terminal or tasks for Eclipse CHE workspace containers.",
+    "displayName": "Che machine-exec Service",
+    "id": "eclipse/che-machine-exec-plugin/7.3.1",
+    "links": {
+      "self": "/v3/plugins/eclipse/che-machine-exec-plugin/7.3.1/"
+    },
+    "name": "che-machine-exec-plugin",
+    "publisher": "eclipse",
+    "type": "Che Plugin",
+    "version": "7.3.1"
+  },
+  {
+    "description": "Che Plug-in with che-machine-exec service to provide creation terminal or tasks for Eclipse CHE workspace containers.",
+    "displayName": "Che machine-exec Service",
+    "id": "eclipse/che-machine-exec-plugin/7.3.2",
+    "links": {
+      "self": "/v3/plugins/eclipse/che-machine-exec-plugin/7.3.2/"
+    },
+    "name": "che-machine-exec-plugin",
+    "publisher": "eclipse",
+    "type": "Che Plugin",
+    "version": "7.3.2"
+  },
+  {
+    "description": "Che Plug-in with che-machine-exec service to provide creation terminal or tasks for Eclipse CHE workspace containers.",
+    "displayName": "Che machine-exec Service",
+    "id": "eclipse/che-machine-exec-plugin/7.3.3",
+    "links": {
+      "self": "/v3/plugins/eclipse/che-machine-exec-plugin/7.3.3/"
+    },
+    "name": "che-machine-exec-plugin",
+    "publisher": "eclipse",
+    "type": "Che Plugin",
+    "version": "7.3.3"
+  },
+  {
+    "description": "Che Plug-in with che-machine-exec service to provide creation terminal or tasks for Eclipse CHE workspace containers.",
+    "displayName": "Che machine-exec Service",
+    "id": "eclipse/che-machine-exec-plugin/7.4.0",
+    "links": {
+      "self": "/v3/plugins/eclipse/che-machine-exec-plugin/7.4.0/"
+    },
+    "name": "che-machine-exec-plugin",
+    "publisher": "eclipse",
+    "type": "Che Plugin",
+    "version": "7.4.0"
+  },
+  {
+    "description": "Che Plug-in with che-machine-exec service to provide creation terminal or tasks for Eclipse CHE workspace containers.",
+    "displayName": "Che machine-exec Service",
+    "id": "eclipse/che-machine-exec-plugin/7.5.0",
+    "links": {
+      "self": "/v3/plugins/eclipse/che-machine-exec-plugin/7.5.0/"
+    },
+    "name": "che-machine-exec-plugin",
+    "publisher": "eclipse",
+    "type": "Che Plugin",
+    "version": "7.5.0"
+  },
+  {
+    "description": "Che Plug-in with che-machine-exec service to provide creation terminal or tasks for Eclipse CHE workspace containers.",
+    "displayName": "Che machine-exec Service",
+    "id": "eclipse/che-machine-exec-plugin/7.5.1",
+    "links": {
+      "self": "/v3/plugins/eclipse/che-machine-exec-plugin/7.5.1/"
+    },
+    "name": "che-machine-exec-plugin",
+    "publisher": "eclipse",
+    "type": "Che Plugin",
+    "version": "7.5.1"
+  },
+  {
+    "description": "Che Plug-in with che-machine-exec service to provide creation terminal or tasks for Eclipse CHE workspace containers.",
+    "displayName": "Che machine-exec Service",
+    "id": "eclipse/che-machine-exec-plugin/7.6.0",
+    "links": {
+      "self": "/v3/plugins/eclipse/che-machine-exec-plugin/7.6.0/"
+    },
+    "name": "che-machine-exec-plugin",
+    "publisher": "eclipse",
+    "type": "Che Plugin",
+    "version": "7.6.0"
+  },
+  {
+    "description": "Che Plug-in with che-machine-exec service to provide creation terminal or tasks for Eclipse CHE workspace containers.",
+    "displayName": "Che machine-exec Service",
+    "id": "eclipse/che-machine-exec-plugin/7.7.0",
+    "links": {
+      "self": "/v3/plugins/eclipse/che-machine-exec-plugin/7.7.0/"
+    },
+    "name": "che-machine-exec-plugin",
+    "publisher": "eclipse",
+    "type": "Che Plugin",
+    "version": "7.7.0"
+  },
+  {
+    "description": "Che Plug-in with che-machine-exec service to provide creation terminal or tasks for Eclipse CHE workspace containers.",
+    "displayName": "Che machine-exec Service",
+    "id": "eclipse/che-machine-exec-plugin/7.7.1",
+    "links": {
+      "self": "/v3/plugins/eclipse/che-machine-exec-plugin/7.7.1/"
+    },
+    "name": "che-machine-exec-plugin",
+    "publisher": "eclipse",
+    "type": "Che Plugin",
+    "version": "7.7.1"
+  },
+  {
+    "description": "Che Plug-in with che-machine-exec service to provide creation terminal or tasks for Eclipse CHE workspace containers.",
+    "displayName": "Che machine-exec Service",
+    "id": "eclipse/che-machine-exec-plugin/7.8.0",
+    "links": {
+      "self": "/v3/plugins/eclipse/che-machine-exec-plugin/7.8.0/"
+    },
+    "name": "che-machine-exec-plugin",
+    "publisher": "eclipse",
+    "type": "Che Plugin",
+    "version": "7.8.0"
+  },
+  {
+    "description": "Che Plug-in with che-machine-exec service to provide creation terminal or tasks for Eclipse CHE workspace containers.",
+    "displayName": "Che machine-exec Service",
+    "id": "eclipse/che-machine-exec-plugin/latest",
+    "links": {
+      "self": "/v3/plugins/eclipse/che-machine-exec-plugin/latest/"
+    },
+    "name": "che-machine-exec-plugin",
+    "publisher": "eclipse",
+    "type": "Che Plugin",
+    "version": "latest"
+  },
+  {
+    "description": "Che Plug-in with che-machine-exec service to provide creation terminal or tasks for Eclipse CHE workspace containers.",
+    "displayName": "Che machine-exec Service",
+    "id": "eclipse/che-machine-exec-plugin/nightly",
+    "links": {
+      "self": "/v3/plugins/eclipse/che-machine-exec-plugin/nightly/"
+    },
+    "name": "che-machine-exec-plugin",
+    "publisher": "eclipse",
+    "type": "Che Plugin",
+    "version": "nightly"
+  },
+  {
+    "description": "Eclipse Theia, get the latest release each day.",
+    "displayName": "theia-ide",
+    "id": "eclipse/che-theia/7.0.0",
+    "links": {
+      "self": "/v3/plugins/eclipse/che-theia/7.0.0/"
+    },
+    "name": "che-theia",
+    "publisher": "eclipse",
+    "type": "Che Editor",
+    "version": "7.0.0"
+  },
+  {
+    "description": "Eclipse Theia, get the latest release each day.",
+    "displayName": "theia-ide",
+    "id": "eclipse/che-theia/7.0.0-next",
+    "links": {
+      "self": "/v3/plugins/eclipse/che-theia/7.0.0-next/"
+    },
+    "name": "che-theia",
+    "publisher": "eclipse",
+    "type": "Che Editor",
+    "version": "7.0.0-next"
+  },
+  {
+    "description": "Eclipse Theia, get the latest release each day.",
+    "displayName": "theia-ide",
+    "id": "eclipse/che-theia/7.0.0-rc-3.0",
+    "links": {
+      "self": "/v3/plugins/eclipse/che-theia/7.0.0-rc-3.0/"
+    },
+    "name": "che-theia",
+    "publisher": "eclipse",
+    "type": "Che Editor",
+    "version": "7.0.0-rc-3.0"
+  },
+  {
+    "description": "Eclipse Theia",
+    "displayName": "theia-ide",
+    "id": "eclipse/che-theia/7.0.0-rc-4.0",
+    "links": {
+      "self": "/v3/plugins/eclipse/che-theia/7.0.0-rc-4.0/"
+    },
+    "name": "che-theia",
+    "publisher": "eclipse",
+    "type": "Che Editor",
+    "version": "7.0.0-rc-4.0"
+  },
+  {
+    "description": "Eclipse Theia, get the latest release each day.",
+    "displayName": "theia-ide",
+    "id": "eclipse/che-theia/7.1.0",
+    "links": {
+      "self": "/v3/plugins/eclipse/che-theia/7.1.0/"
+    },
+    "name": "che-theia",
+    "publisher": "eclipse",
+    "type": "Che Editor",
+    "version": "7.1.0"
+  },
+  {
+    "description": "Eclipse Theia",
+    "displayName": "theia-ide",
+    "id": "eclipse/che-theia/7.2.0",
+    "links": {
+      "self": "/v3/plugins/eclipse/che-theia/7.2.0/"
+    },
+    "name": "che-theia",
+    "publisher": "eclipse",
+    "type": "Che Editor",
+    "version": "7.2.0"
+  },
+  {
+    "description": "Eclipse Theia",
+    "displayName": "theia-ide",
+    "id": "eclipse/che-theia/7.3.0",
+    "links": {
+      "self": "/v3/plugins/eclipse/che-theia/7.3.0/"
+    },
+    "name": "che-theia",
+    "publisher": "eclipse",
+    "type": "Che Editor",
+    "version": "7.3.0"
+  },
+  {
+    "description": "Eclipse Theia",
+    "displayName": "theia-ide",
+    "id": "eclipse/che-theia/7.3.1",
+    "links": {
+      "self": "/v3/plugins/eclipse/che-theia/7.3.1/"
+    },
+    "name": "che-theia",
+    "publisher": "eclipse",
+    "type": "Che Editor",
+    "version": "7.3.1"
+  },
+  {
+    "description": "Eclipse Theia",
+    "displayName": "theia-ide",
+    "id": "eclipse/che-theia/7.3.2",
+    "links": {
+      "self": "/v3/plugins/eclipse/che-theia/7.3.2/"
+    },
+    "name": "che-theia",
+    "publisher": "eclipse",
+    "type": "Che Editor",
+    "version": "7.3.2"
+  },
+  {
+    "description": "Eclipse Theia",
+    "displayName": "theia-ide",
+    "id": "eclipse/che-theia/7.3.3",
+    "links": {
+      "self": "/v3/plugins/eclipse/che-theia/7.3.3/"
+    },
+    "name": "che-theia",
+    "publisher": "eclipse",
+    "type": "Che Editor",
+    "version": "7.3.3"
+  },
+  {
+    "description": "Eclipse Theia",
+    "displayName": "theia-ide",
+    "id": "eclipse/che-theia/7.4.0",
+    "links": {
+      "self": "/v3/plugins/eclipse/che-theia/7.4.0/"
+    },
+    "name": "che-theia",
+    "publisher": "eclipse",
+    "type": "Che Editor",
+    "version": "7.4.0"
+  },
+  {
+    "description": "Eclipse Theia",
+    "displayName": "theia-ide",
+    "id": "eclipse/che-theia/7.5.0",
+    "links": {
+      "self": "/v3/plugins/eclipse/che-theia/7.5.0/"
+    },
+    "name": "che-theia",
+    "publisher": "eclipse",
+    "type": "Che Editor",
+    "version": "7.5.0"
+  },
+  {
+    "description": "Eclipse Theia",
+    "displayName": "theia-ide",
+    "id": "eclipse/che-theia/7.5.1",
+    "links": {
+      "self": "/v3/plugins/eclipse/che-theia/7.5.1/"
+    },
+    "name": "che-theia",
+    "publisher": "eclipse",
+    "type": "Che Editor",
+    "version": "7.5.1"
+  },
+  {
+    "description": "Eclipse Theia",
+    "displayName": "theia-ide",
+    "id": "eclipse/che-theia/7.6.0",
+    "links": {
+      "self": "/v3/plugins/eclipse/che-theia/7.6.0/"
+    },
+    "name": "che-theia",
+    "publisher": "eclipse",
+    "type": "Che Editor",
+    "version": "7.6.0"
+  },
+  {
+    "description": "Eclipse Theia",
+    "displayName": "theia-ide",
+    "id": "eclipse/che-theia/7.7.0",
+    "links": {
+      "self": "/v3/plugins/eclipse/che-theia/7.7.0/"
+    },
+    "name": "che-theia",
+    "publisher": "eclipse",
+    "type": "Che Editor",
+    "version": "7.7.0"
+  },
+  {
+    "description": "Eclipse Theia",
+    "displayName": "theia-ide",
+    "id": "eclipse/che-theia/7.7.1",
+    "links": {
+      "self": "/v3/plugins/eclipse/che-theia/7.7.1/"
+    },
+    "name": "che-theia",
+    "publisher": "eclipse",
+    "type": "Che Editor",
+    "version": "7.7.1"
+  },
+  {
+    "description": "Eclipse Theia",
+    "displayName": "theia-ide",
+    "id": "eclipse/che-theia/7.8.0",
+    "links": {
+      "self": "/v3/plugins/eclipse/che-theia/7.8.0/"
+    },
+    "name": "che-theia",
+    "publisher": "eclipse",
+    "type": "Che Editor",
+    "version": "7.8.0"
+  },
+  {
+    "description": "Eclipse Theia",
+    "displayName": "theia-ide",
+    "id": "eclipse/che-theia/latest",
+    "links": {
+      "self": "/v3/plugins/eclipse/che-theia/latest/"
+    },
+    "name": "che-theia",
+    "publisher": "eclipse",
+    "type": "Che Editor",
+    "version": "latest"
+  },
+  {
+    "description": "Eclipse Theia, get the latest release each day.",
+    "displayName": "theia-ide",
+    "id": "eclipse/che-theia/next",
+    "links": {
+      "self": "/v3/plugins/eclipse/che-theia/next/"
+    },
+    "name": "che-theia",
+    "publisher": "eclipse",
+    "type": "Che Editor",
+    "version": "next"
+  },
+  {
+    "description": "Cloud Shell provides an ability to use terminal widget like an editor.",
+    "displayName": "Cloud Shell Editor",
+    "id": "eclipse/cloud-shell/latest",
+    "links": {
+      "self": "/v3/plugins/eclipse/cloud-shell/latest/"
+    },
+    "name": "cloud-shell",
+    "publisher": "eclipse",
+    "type": "Che Editor",
+    "version": "latest"
+  },
+  {
+    "description": "Cloud Shell provides an ability to use terminal widget like an editor.",
+    "displayName": "Cloud Shell Editor",
+    "id": "eclipse/cloud-shell/nightly",
+    "links": {
+      "self": "/v3/plugins/eclipse/cloud-shell/nightly/"
+    },
+    "name": "cloud-shell",
+    "publisher": "eclipse",
+    "type": "Che Editor",
+    "version": "nightly"
+  },
+  {
+    "deprecate": {
+      "autoMigrate": true,
+      "migrateTo": "joaompinto/vscode-asciidoctor/latest"
+    },
+    "description": "This extension provides a live preview, syntax highlighting and snippets for the AsciiDoc format using Asciidoctor flavor.",
+    "displayName": "AsciiDoc support",
+    "id": "joaompinto/vscode-asciidoctor/2.7.6",
+    "links": {
+      "self": "/v3/plugins/joaompinto/vscode-asciidoctor/2.7.6/"
+    },
+    "name": "vscode-asciidoctor",
+    "publisher": "joaompinto",
+    "type": "VS Code extension",
+    "version": "2.7.6"
+  },
+  {
+    "description": "This extension provides a live preview, syntax highlighting and snippets for the AsciiDoc format using Asciidoctor flavor.",
+    "displayName": "AsciiDoc support",
+    "id": "joaompinto/vscode-asciidoctor/2.7.7",
+    "links": {
+      "self": "/v3/plugins/joaompinto/vscode-asciidoctor/2.7.7/"
+    },
+    "name": "vscode-asciidoctor",
+    "publisher": "joaompinto",
+    "type": "VS Code extension",
+    "version": "2.7.7"
+  },
+  {
+    "description": "This extension provides a live preview, syntax highlighting and snippets for the AsciiDoc format using Asciidoctor flavor.",
+    "displayName": "AsciiDoc support",
+    "id": "joaompinto/vscode-asciidoctor/latest",
+    "links": {
+      "self": "/v3/plugins/joaompinto/vscode-asciidoctor/latest/"
+    },
+    "name": "vscode-asciidoctor",
+    "publisher": "joaompinto",
+    "type": "VS Code extension",
+    "version": "latest"
+  },
+  {
+    "description": "This plugin provides emacs keybindings and workflow.",
+    "displayName": "Emacs keybindings",
+    "id": "lfs/vscode-emacs-friendly/0.9.0",
+    "links": {
+      "self": "/v3/plugins/lfs/vscode-emacs-friendly/0.9.0/"
+    },
+    "name": "vscode-emacs-friendly",
+    "publisher": "lfs",
+    "type": "VS Code extension",
+    "version": "0.9.0"
+  },
+  {
+    "description": "This plugin provides emacs keybindings and workflow.",
+    "displayName": "Emacs keybindings",
+    "id": "lfs/vscode-emacs-friendly/latest",
+    "links": {
+      "self": "/v3/plugins/lfs/vscode-emacs-friendly/latest/"
+    },
+    "name": "vscode-emacs-friendly",
+    "publisher": "lfs",
+    "type": "VS Code extension",
+    "version": "latest"
+  },
+  {
+    "description": "VS Code MicroProfile Starter Extension",
+    "displayName": "MicroProfile Starter",
+    "id": "microshed/mp-starter-vscode-ext/0.2.0",
+    "links": {
+      "self": "/v3/plugins/microshed/mp-starter-vscode-ext/0.2.0/"
+    },
+    "name": "mp-starter-vscode-ext",
+    "publisher": "microshed",
+    "type": "VS Code extension",
+    "version": "0.2.0"
+  },
+  {
+    "description": "VS Code MicroProfile Starter Extension",
+    "displayName": "MicroProfile Starter",
+    "id": "microshed/mp-starter-vscode-ext/latest",
+    "links": {
+      "self": "/v3/plugins/microshed/mp-starter-vscode-ext/latest/"
+    },
+    "name": "mp-starter-vscode-ext",
+    "publisher": "microshed",
+    "type": "VS Code extension",
+    "version": "latest"
+  },
+  {
+    "description": "Develop, deploy and debug Kubernetes applications",
+    "displayName": "Kubernetes",
+    "id": "ms-kubernetes-tools/vscode-kubernetes-tools/0.1.17",
+    "links": {
+      "self": "/v3/plugins/ms-kubernetes-tools/vscode-kubernetes-tools/0.1.17/"
+    },
+    "name": "vscode-kubernetes-tools",
+    "publisher": "ms-kubernetes-tools",
+    "type": "VS Code extension",
+    "version": "0.1.17"
+  },
+  {
+    "deprecate": {
+      "automigrate": true,
+      "migrateTo": "ms-kubernetes-tools/vscode-kubernetes-tools/latest"
+    },
+    "description": "Develop, deploy and debug Kubernetes applications",
+    "displayName": "Kubernetes",
+    "id": "ms-kubernetes-tools/vscode-kubernetes-tools/1.0.0",
+    "links": {
+      "self": "/v3/plugins/ms-kubernetes-tools/vscode-kubernetes-tools/1.0.0/"
+    },
+    "name": "vscode-kubernetes-tools",
+    "publisher": "ms-kubernetes-tools",
+    "type": "VS Code extension",
+    "version": "1.0.0"
+  },
+  {
+    "description": "Develop, deploy and debug Kubernetes applications",
+    "displayName": "Kubernetes",
+    "id": "ms-kubernetes-tools/vscode-kubernetes-tools/1.0.4",
+    "links": {
+      "self": "/v3/plugins/ms-kubernetes-tools/vscode-kubernetes-tools/1.0.4/"
+    },
+    "name": "vscode-kubernetes-tools",
+    "publisher": "ms-kubernetes-tools",
+    "type": "VS Code extension",
+    "version": "1.0.4"
+  },
+  {
+    "description": "Develop, deploy and debug Kubernetes applications",
+    "displayName": "Kubernetes",
+    "id": "ms-kubernetes-tools/vscode-kubernetes-tools/1.0.9",
+    "links": {
+      "self": "/v3/plugins/ms-kubernetes-tools/vscode-kubernetes-tools/1.0.9/"
+    },
+    "name": "vscode-kubernetes-tools",
+    "publisher": "ms-kubernetes-tools",
+    "type": "VS Code extension",
+    "version": "1.0.9"
+  },
+  {
+    "description": "Develop, deploy and debug Kubernetes applications",
+    "displayName": "Kubernetes",
+    "id": "ms-kubernetes-tools/vscode-kubernetes-tools/latest",
+    "links": {
+      "self": "/v3/plugins/ms-kubernetes-tools/vscode-kubernetes-tools/latest/"
+    },
+    "name": "vscode-kubernetes-tools",
+    "publisher": "ms-kubernetes-tools",
+    "type": "VS Code extension",
+    "version": "latest"
+  },
+  {
+    "description": "Linting, Debugging (multi-threaded, remote), Intellisense, code formatting, refactoring, unit tests, snippets, and more.",
+    "displayName": "Python",
+    "id": "ms-python/python/2019.2.5558",
+    "links": {
+      "self": "/v3/plugins/ms-python/python/2019.2.5558/"
+    },
+    "name": "python",
+    "publisher": "ms-python",
+    "type": "VS Code extension",
+    "version": "2019.2.5558"
+  },
+  {
+    "description": "Linting, Debugging (multi-threaded, remote), Intellisense, code formatting, refactoring, unit tests, snippets, and more.",
+    "displayName": "Python",
+    "id": "ms-python/python/2019.3.6558",
+    "links": {
+      "self": "/v3/plugins/ms-python/python/2019.3.6558/"
+    },
+    "name": "python",
+    "publisher": "ms-python",
+    "type": "VS Code extension",
+    "version": "2019.3.6558"
+  },
+  {
+    "description": "Linting, Debugging (multi-threaded, remote), Intellisense, code formatting, refactoring, unit tests, snippets, and more.",
+    "displayName": "Python",
+    "id": "ms-python/python/2019.5.18875",
+    "links": {
+      "self": "/v3/plugins/ms-python/python/2019.5.18875/"
+    },
+    "name": "python",
+    "publisher": "ms-python",
+    "type": "VS Code extension",
+    "version": "2019.5.18875"
+  },
+  {
+    "description": "Linting, Debugging (multi-threaded, remote), Intellisense, code formatting, refactoring, unit tests, snippets, and more.",
+    "displayName": "Python",
+    "id": "ms-python/python/latest",
+    "links": {
+      "self": "/v3/plugins/ms-python/python/latest/"
+    },
+    "name": "python",
+    "publisher": "ms-python",
+    "type": "VS Code extension",
+    "version": "latest"
+  },
+  {
+    "description": "This extension adds rich language support for the Go language",
+    "displayName": "Go",
+    "id": "ms-vscode/go/0.11.0",
+    "links": {
+      "self": "/v3/plugins/ms-vscode/go/0.11.0/"
+    },
+    "name": "go",
+    "publisher": "ms-vscode",
+    "type": "VS Code extension",
+    "version": "0.11.0"
+  },
+  {
+    "description": "This extension adds rich language support for the Go language",
+    "displayName": "Go",
+    "id": "ms-vscode/go/0.11.4",
+    "links": {
+      "self": "/v3/plugins/ms-vscode/go/0.11.4/"
+    },
+    "name": "go",
+    "publisher": "ms-vscode",
+    "type": "VS Code extension",
+    "version": "0.11.4"
+  },
+  {
+    "description": "This extension adds rich language support for the Go language",
+    "displayName": "Go",
+    "id": "ms-vscode/go/0.9.2",
+    "links": {
+      "self": "/v3/plugins/ms-vscode/go/0.9.2/"
+    },
+    "name": "go",
+    "publisher": "ms-vscode",
+    "type": "VS Code extension",
+    "version": "0.9.2"
+  },
+  {
+    "description": "This extension adds rich language support for the Go language",
+    "displayName": "Go",
+    "id": "ms-vscode/go/latest",
+    "links": {
+      "self": "/v3/plugins/ms-vscode/go/latest/"
+    },
+    "name": "go",
+    "publisher": "ms-vscode",
+    "type": "VS Code extension",
+    "version": "latest"
+  },
+  {
+    "deprecate": {
+      "automigrate": true,
+      "migrateTo": "ms-vscode/node-debug2/latest"
+    },
+    "description": "Node Debug is the debugger for Node.js versions >= 8.0. Together with Node Debug (legacy) forms the Node.js debugging experience. https://marketplace.visualstudio.com/items?itemName=ms-vscode.node-debug2",
+    "displayName": "Node Debug",
+    "id": "ms-vscode/node-debug2/1.31.6",
+    "links": {
+      "self": "/v3/plugins/ms-vscode/node-debug2/1.31.6/"
+    },
+    "name": "node-debug2",
+    "publisher": "ms-vscode",
+    "type": "VS Code extension",
+    "version": "1.31.6"
+  },
+  {
+    "description": "Node Debug is the debugger for Node.js versions >= 8.0. Together with Node Debug (legacy) forms the Node.js debugging experience. https://marketplace.visualstudio.com/items?itemName=ms-vscode.node-debug2",
+    "displayName": "Node Debug",
+    "id": "ms-vscode/node-debug2/1.33.0",
+    "links": {
+      "self": "/v3/plugins/ms-vscode/node-debug2/1.33.0/"
+    },
+    "name": "node-debug2",
+    "publisher": "ms-vscode",
+    "type": "VS Code extension",
+    "version": "1.33.0"
+  },
+  {
+    "description": "Node Debug is the debugger for Node.js versions >= 8.0. Together with Node Debug (legacy) forms the Node.js debugging experience. https://marketplace.visualstudio.com/items?itemName=ms-vscode.node-debug2",
+    "displayName": "Node Debug",
+    "id": "ms-vscode/node-debug2/latest",
+    "links": {
+      "self": "/v3/plugins/ms-vscode/node-debug2/latest/"
+    },
+    "name": "node-debug2",
+    "publisher": "ms-vscode",
+    "type": "VS Code extension",
+    "version": "latest"
+  },
+  {
+    "description": "This extension allows you to review and manage GitHub pull requests.",
+    "displayName": "GitHub Pull Requests",
+    "id": "ms-vscode/vscode-github-pullrequest/0.8.0",
+    "links": {
+      "self": "/v3/plugins/ms-vscode/vscode-github-pullrequest/0.8.0/"
+    },
+    "name": "vscode-github-pullrequest",
+    "publisher": "ms-vscode",
+    "type": "VS Code extension",
+    "version": "0.8.0"
+  },
+  {
+    "description": "This extension allows you to review and manage GitHub pull requests.",
+    "displayName": "GitHub Pull Requests",
+    "id": "ms-vscode/vscode-github-pullrequest/latest",
+    "links": {
+      "self": "/v3/plugins/ms-vscode/vscode-github-pullrequest/latest/"
+    },
+    "name": "vscode-github-pullrequest",
+    "publisher": "ms-vscode",
+    "type": "VS Code extension",
+    "version": "latest"
+  },
+  {
+    "description": "VS Code extension that provides Libra's Move Language Server. Code is provided by SDKBox. Packaging by PizzaFactory.",
+    "displayName": "Libra's Move Language",
+    "id": "pizzafactory/vscode-libra-move/0.0.10",
+    "links": {
+      "self": "/v3/plugins/pizzafactory/vscode-libra-move/0.0.10/"
+    },
+    "name": "vscode-libra-move",
+    "publisher": "pizzafactory",
+    "type": "VS Code extension",
+    "version": "0.0.10"
+  },
+  {
+    "description": "VS Code extension that provides Libra's Move Language Server. Code is provided by SDKBox. Packaging by PizzaFactory.",
+    "displayName": "Libra's Move Language",
+    "id": "pizzafactory/vscode-libra-move/latest",
+    "links": {
+      "self": "/v3/plugins/pizzafactory/vscode-libra-move/latest/"
+    },
+    "name": "vscode-libra-move",
+    "publisher": "pizzafactory",
+    "type": "VS Code extension",
+    "version": "latest"
+  },
+  {
+    "description": "VS Code extension that provides Xtend Language Server",
+    "displayName": "Xtend Language",
+    "id": "pizzafactory/xtend-lang/0.1.0",
+    "links": {
+      "self": "/v3/plugins/pizzafactory/xtend-lang/0.1.0/"
+    },
+    "name": "xtend-lang",
+    "publisher": "pizzafactory",
+    "type": "VS Code extension",
+    "version": "0.1.0"
+  },
+  {
+    "description": "VS Code extension that provides Xtend Language Server",
+    "displayName": "Xtend Language",
+    "id": "pizzafactory/xtend-lang/latest",
+    "links": {
+      "self": "/v3/plugins/pizzafactory/xtend-lang/latest/"
+    },
+    "name": "xtend-lang",
+    "publisher": "pizzafactory",
+    "type": "VS Code extension",
+    "version": "latest"
+  },
+  {
+    "description": "VS Code extension that provides Xtext Language Server",
+    "displayName": "Xtext Language",
+    "id": "pizzafactory/xtext-lang/0.4.0",
+    "links": {
+      "self": "/v3/plugins/pizzafactory/xtext-lang/0.4.0/"
+    },
+    "name": "xtext-lang",
+    "publisher": "pizzafactory",
+    "type": "VS Code extension",
+    "version": "0.4.0"
+  },
+  {
+    "description": "VS Code extension that provides Xtext Language Server",
+    "displayName": "Xtext Language",
+    "id": "pizzafactory/xtext-lang/latest",
+    "links": {
+      "self": "/v3/plugins/pizzafactory/xtext-lang/latest/"
+    },
+    "name": "xtext-lang",
+    "publisher": "pizzafactory",
+    "type": "VS Code extension",
+    "version": "latest"
+  },
+  {
+    "description": "This plug-in registers omnisharp-roslyn as a language server and provides project dependencies and language syntax.",
+    "displayName": "Omnisharp Theia Plug-in",
+    "id": "redhat-developer/che-omnisharp-plugin/0.0.1",
+    "links": {
+      "self": "/v3/plugins/redhat-developer/che-omnisharp-plugin/0.0.1/"
+    },
+    "name": "che-omnisharp-plugin",
+    "publisher": "redhat-developer",
+    "type": "Theia plugin",
+    "version": "0.0.1"
+  },
+  {
+    "description": "This plug-in registers omnisharp-roslyn as a language server and provides project dependencies and language syntax.",
+    "displayName": "Omnisharp Theia Plug-in",
+    "id": "redhat-developer/che-omnisharp-plugin/0.0.2",
+    "links": {
+      "self": "/v3/plugins/redhat-developer/che-omnisharp-plugin/0.0.2/"
+    },
+    "name": "che-omnisharp-plugin",
+    "publisher": "redhat-developer",
+    "type": "Theia plugin",
+    "version": "0.0.2"
+  },
+  {
+    "description": "This plug-in registers omnisharp-roslyn as a language server and provides project dependencies and language syntax.",
+    "displayName": "Omnisharp Theia Plug-in",
+    "id": "redhat-developer/che-omnisharp-plugin/0.0.4",
+    "links": {
+      "self": "/v3/plugins/redhat-developer/che-omnisharp-plugin/0.0.4/"
+    },
+    "name": "che-omnisharp-plugin",
+    "publisher": "redhat-developer",
+    "type": "Theia plugin",
+    "version": "0.0.4"
+  },
+  {
+    "description": "This plug-in registers omnisharp-roslyn as a language server and provides project dependencies and language syntax.",
+    "displayName": "Omnisharp Theia Plug-in",
+    "id": "redhat-developer/che-omnisharp-plugin/0.0.5",
+    "links": {
+      "self": "/v3/plugins/redhat-developer/che-omnisharp-plugin/0.0.5/"
+    },
+    "name": "che-omnisharp-plugin",
+    "publisher": "redhat-developer",
+    "type": "Theia plugin",
+    "version": "0.0.5"
+  },
+  {
+    "description": "This plug-in registers omnisharp-roslyn as a language server and provides project dependencies and language syntax.",
+    "displayName": "Omnisharp Theia Plug-in",
+    "id": "redhat-developer/che-omnisharp-plugin/latest",
+    "links": {
+      "self": "/v3/plugins/redhat-developer/che-omnisharp-plugin/latest/"
+    },
+    "name": "che-omnisharp-plugin",
+    "publisher": "redhat-developer",
+    "type": "Theia plugin",
+    "version": "latest"
+  },
+  {
+    "description": "This plug-in provides Samsung/netcoredbg which implements VSCode Debug Adapter protocol and allows to debug .NET apps under .NET Core runtime.",
+    "displayName": "NetcoreDBG Theia Plug-in",
+    "id": "redhat-developer/netcoredbg-theia-plugin/0.0.1",
+    "links": {
+      "self": "/v3/plugins/redhat-developer/netcoredbg-theia-plugin/0.0.1/"
+    },
+    "name": "netcoredbg-theia-plugin",
+    "publisher": "redhat-developer",
+    "type": "Theia plugin",
+    "version": "0.0.1"
+  },
+  {
+    "description": "This plug-in provides Samsung/netcoredbg which implements VSCode Debug Adapter protocol and allows to debug .NET apps under .NET Core runtime.",
+    "displayName": "NetcoreDBG Theia Plug-in",
+    "id": "redhat-developer/netcoredbg-theia-plugin/latest",
+    "links": {
+      "self": "/v3/plugins/redhat-developer/netcoredbg-theia-plugin/latest/"
+    },
+    "name": "netcoredbg-theia-plugin",
+    "publisher": "redhat-developer",
+    "type": "Theia plugin",
+    "version": "latest"
+  },
+  {
+    "description": "Insights about your application dependencies, Security, License compatibility and AI based guidance to choose appropriate dependencies for your application.",
+    "displayName": "Dependency Analytics",
+    "id": "redhat/dependency-analytics/0.0.12",
+    "links": {
+      "self": "/v3/plugins/redhat/dependency-analytics/0.0.12/"
+    },
+    "name": "dependency-analytics",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "0.0.12"
+  },
+  {
+    "description": "Insights about your application dependencies, Security, License compatibility and AI based guidance to choose appropriate dependencies for your application.",
+    "displayName": "Dependency Analytics",
+    "id": "redhat/dependency-analytics/0.0.13",
+    "links": {
+      "self": "/v3/plugins/redhat/dependency-analytics/0.0.13/"
+    },
+    "name": "dependency-analytics",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "0.0.13"
+  },
+  {
+    "description": "Insights about your application dependencies, Security, License compatibility and AI based guidance to choose appropriate dependencies for your application.",
+    "displayName": "Dependency Analytics",
+    "id": "redhat/dependency-analytics/latest",
+    "links": {
+      "self": "/v3/plugins/redhat/dependency-analytics/latest/"
+    },
+    "name": "dependency-analytics",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "latest"
+  },
+  {
+    "description": "Java Linting, debugging, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
+    "displayName": "Language Support for Java(TM)",
+    "id": "redhat/java/0.38.0",
+    "links": {
+      "self": "/v3/plugins/redhat/java/0.38.0/"
+    },
+    "name": "java",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "0.38.0"
+  },
+  {
+    "description": "Java Linting, debugging, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
+    "displayName": "Language Support for Java(TM)",
+    "id": "redhat/java/0.43.0",
+    "links": {
+      "self": "/v3/plugins/redhat/java/0.43.0/"
+    },
+    "name": "java",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "0.43.0"
+  },
+  {
+    "description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
+    "displayName": "Language Support for Java(TM)",
+    "id": "redhat/java/0.45.0",
+    "links": {
+      "self": "/v3/plugins/redhat/java/0.45.0/"
+    },
+    "name": "java",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "0.45.0"
+  },
+  {
+    "description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
+    "displayName": "Language Support for Java(TM)",
+    "id": "redhat/java/0.46.0",
+    "links": {
+      "self": "/v3/plugins/redhat/java/0.46.0/"
+    },
+    "name": "java",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "0.46.0"
+  },
+  {
+    "description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
+    "displayName": "Language Support for Java(TM)",
+    "id": "redhat/java/0.50.0",
+    "links": {
+      "self": "/v3/plugins/redhat/java/0.50.0/"
+    },
+    "name": "java",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "0.50.0"
+  },
+  {
+    "description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
+    "displayName": "Language Support for Java(TM)",
+    "id": "redhat/java/latest",
+    "links": {
+      "self": "/v3/plugins/redhat/java/latest/"
+    },
+    "name": "java",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "latest"
+  },
+  {
+    "description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
+    "displayName": "Language Support for Java 11",
+    "id": "redhat/java11/0.46.0",
+    "links": {
+      "self": "/v3/plugins/redhat/java11/0.46.0/"
+    },
+    "name": "java11",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "0.46.0"
+  },
+  {
+    "description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
+    "displayName": "Language Support for Java 11",
+    "id": "redhat/java11/0.50.0",
+    "links": {
+      "self": "/v3/plugins/redhat/java11/0.50.0/"
+    },
+    "name": "java11",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "0.50.0"
+  },
+  {
+    "description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
+    "displayName": "Language Support for Java 11",
+    "id": "redhat/java11/latest",
+    "links": {
+      "self": "/v3/plugins/redhat/java11/latest/"
+    },
+    "name": "java11",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "latest"
+  },
+  {
+    "description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
+    "displayName": "Language Support for Java 8",
+    "id": "redhat/java8/0.46.0",
+    "links": {
+      "self": "/v3/plugins/redhat/java8/0.46.0/"
+    },
+    "name": "java8",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "0.46.0"
+  },
+  {
+    "description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
+    "displayName": "Language Support for Java 8",
+    "id": "redhat/java8/0.50.0",
+    "links": {
+      "self": "/v3/plugins/redhat/java8/0.50.0/"
+    },
+    "name": "java8",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "0.50.0"
+  },
+  {
+    "description": "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...",
+    "displayName": "Language Support for Java 8",
+    "id": "redhat/java8/latest",
+    "links": {
+      "self": "/v3/plugins/redhat/java8/latest/"
+    },
+    "name": "java8",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "latest"
+  },
+  {
+    "description": "This VS Code extension provides support for PHP debugging, based on the PHP Debug extension from Felix Backer.",
+    "displayName": "PHP Debugger",
+    "id": "redhat/php-debugger/1.13.0",
+    "links": {
+      "self": "/v3/plugins/redhat/php-debugger/1.13.0/"
+    },
+    "name": "php-debugger",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "1.13.0"
+  },
+  {
+    "description": "This VS Code extension provides support for PHP debugging, based on the PHP Debug extension from Felix Backer.",
+    "displayName": "PHP Debugger",
+    "id": "redhat/php-debugger/latest",
+    "links": {
+      "self": "/v3/plugins/redhat/php-debugger/latest/"
+    },
+    "name": "php-debugger",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "latest"
+  },
+  {
+    "description": "This VS Code extension provides support for creating and editing PHP documents, based on the PHP Intelephense language server.",
+    "displayName": "PHP Intelephense",
+    "id": "redhat/php/1.0.13",
+    "links": {
+      "self": "/v3/plugins/redhat/php/1.0.13/"
+    },
+    "name": "php",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "1.0.13"
+  },
+  {
+    "description": "This VS Code extension provides support for creating and editing PHP documents, based on the PHP Intelephense language server.",
+    "displayName": "PHP Intelephense",
+    "id": "redhat/php/1.0.14",
+    "links": {
+      "self": "/v3/plugins/redhat/php/1.0.14/"
+    },
+    "name": "php",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "1.0.14"
+  },
+  {
+    "description": "This VS Code extension provides support for creating and editing PHP documents, based on the PHP Intelephense language server.",
+    "displayName": "PHP Intelephense",
+    "id": "redhat/php/latest",
+    "links": {
+      "self": "/v3/plugins/redhat/php/latest/"
+    },
+    "name": "php",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "latest"
+  },
+  {
+    "description": "A lightweight extension based on Red Hat launcher to generate quickstart projects using Eclipse Che",
+    "displayName": "Project Initializer by Red Hat",
+    "id": "redhat/project-initializer/0.0.10",
+    "links": {
+      "self": "/v3/plugins/redhat/project-initializer/0.0.10/"
+    },
+    "name": "project-initializer",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "0.0.10"
+  },
+  {
+    "deprecate": {
+      "automigrate": true,
+      "migrateTo": "redhat/project-initializer/latest"
+    },
+    "description": "A lightweight extension based on Red Hat launcher to generate quickstart projects using Eclipse Che",
+    "displayName": "Project Initializer by Red Hat",
+    "id": "redhat/project-initializer/0.0.9",
+    "links": {
+      "self": "/v3/plugins/redhat/project-initializer/0.0.9/"
+    },
+    "name": "project-initializer",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "0.0.9"
+  },
+  {
+    "description": "A lightweight extension based on Red Hat launcher to generate quickstart projects using Eclipse Che",
+    "displayName": "Project Initializer by Red Hat",
+    "id": "redhat/project-initializer/latest",
+    "links": {
+      "self": "/v3/plugins/redhat/project-initializer/latest/"
+    },
+    "name": "project-initializer",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "latest"
+  },
+  {
+    "description": "This plug-in provides support for Quarkus development via a Quarkus language server, Java jdt.ls and Java Debugger.",
+    "displayName": "Quarkus Tools with Java 8",
+    "id": "redhat/quarkus-java8/1.2.0",
+    "links": {
+      "self": "/v3/plugins/redhat/quarkus-java8/1.2.0/"
+    },
+    "name": "quarkus-java8",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "1.2.0"
+  },
+  {
+    "description": "This plug-in provides support for Quarkus development via a Quarkus language server, Java jdt.ls and Java Debugger.",
+    "displayName": "Quarkus Tools with Java 8",
+    "id": "redhat/quarkus-java8/latest",
+    "links": {
+      "self": "/v3/plugins/redhat/quarkus-java8/latest/"
+    },
+    "name": "quarkus-java8",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "latest"
+  },
+  {
+    "description": "Application Migration and Modernization using RHAMT",
+    "displayName": "Red Hat Application Migration Toolkit",
+    "id": "redhat/rhamt/0.0.11",
+    "links": {
+      "self": "/v3/plugins/redhat/rhamt/0.0.11/"
+    },
+    "name": "rhamt",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "0.0.11"
+  },
+  {
+    "description": "Application Migration and Modernization using RHAMT",
+    "displayName": "Red Hat Application Migration Toolkit",
+    "id": "redhat/rhamt/0.0.8",
+    "links": {
+      "self": "/v3/plugins/redhat/rhamt/0.0.8/"
+    },
+    "name": "rhamt",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "0.0.8"
+  },
+  {
+    "description": "Application Migration and Modernization using RHAMT",
+    "displayName": "Red Hat Application Migration Toolkit",
+    "id": "redhat/rhamt/latest",
+    "links": {
+      "self": "/v3/plugins/redhat/rhamt/latest/"
+    },
+    "name": "rhamt",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "latest"
+  },
+  {
+    "deprecate": {
+      "automigrate": true,
+      "migrateTo": "redhat/vscode-apache-camel/latest"
+    },
+    "description": "This VS Code extension provides support for Apache Camel.",
+    "displayName": "Language Support for Apache Camel",
+    "id": "redhat/vscode-apache-camel/0.0.16",
+    "links": {
+      "self": "/v3/plugins/redhat/vscode-apache-camel/0.0.16/"
+    },
+    "name": "vscode-apache-camel",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "0.0.16"
+  },
+  {
+    "deprecate": {
+      "automigrate": true,
+      "migrateTo": "redhat/vscode-apache-camel/latest"
+    },
+    "description": "This VS Code extension provides support for Apache Camel.",
+    "displayName": "Language Support for Apache Camel",
+    "id": "redhat/vscode-apache-camel/0.0.18",
+    "links": {
+      "self": "/v3/plugins/redhat/vscode-apache-camel/0.0.18/"
+    },
+    "name": "vscode-apache-camel",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "0.0.18"
+  },
+  {
+    "deprecate": {
+      "automigrate": true,
+      "migrateTo": "redhat/vscode-apache-camel/latest"
+    },
+    "description": "This VS Code extension provides support for Apache Camel.",
+    "displayName": "Language Support for Apache Camel",
+    "id": "redhat/vscode-apache-camel/0.0.20",
+    "links": {
+      "self": "/v3/plugins/redhat/vscode-apache-camel/0.0.20/"
+    },
+    "name": "vscode-apache-camel",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "0.0.20"
+  },
+  {
+    "description": "This VS Code extension provides support for Apache Camel.",
+    "displayName": "Language Support for Apache Camel",
+    "id": "redhat/vscode-apache-camel/0.0.22",
+    "links": {
+      "self": "/v3/plugins/redhat/vscode-apache-camel/0.0.22/"
+    },
+    "name": "vscode-apache-camel",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "0.0.22"
+  },
+  {
+    "description": "This VS Code extension provides support for Apache Camel.",
+    "displayName": "Language Support for Apache Camel",
+    "id": "redhat/vscode-apache-camel/latest",
+    "links": {
+      "self": "/v3/plugins/redhat/vscode-apache-camel/latest/"
+    },
+    "name": "vscode-apache-camel",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "latest"
+  },
+  {
+    "deprecate": {
+      "automigrate": true,
+      "migrateTo": "redhat/vscode-camelk/latest"
+    },
+    "description": "Support for Apache Camel K functionality",
+    "displayName": "Tooling for Apache Camel K",
+    "id": "redhat/vscode-camelk/0.0.10",
+    "links": {
+      "self": "/v3/plugins/redhat/vscode-camelk/0.0.10/"
+    },
+    "name": "vscode-camelk",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "0.0.10"
+  },
+  {
+    "description": "Support for Apache Camel K functionality",
+    "displayName": "Tooling for Apache Camel K",
+    "id": "redhat/vscode-camelk/0.0.10-4",
+    "links": {
+      "self": "/v3/plugins/redhat/vscode-camelk/0.0.10-4/"
+    },
+    "name": "vscode-camelk",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "0.0.10-4"
+  },
+  {
+    "description": "Support for Apache Camel K functionality",
+    "displayName": "Tooling for Apache Camel K",
+    "id": "redhat/vscode-camelk/0.0.11",
+    "links": {
+      "self": "/v3/plugins/redhat/vscode-camelk/0.0.11/"
+    },
+    "name": "vscode-camelk",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "0.0.11"
+  },
+  {
+    "description": "Support for Apache Camel K functionality",
+    "displayName": "Tooling for Apache Camel K",
+    "id": "redhat/vscode-camelk/0.0.9",
+    "links": {
+      "self": "/v3/plugins/redhat/vscode-camelk/0.0.9/"
+    },
+    "name": "vscode-camelk",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "0.0.9"
+  },
+  {
+    "description": "Support for Apache Camel K functionality",
+    "displayName": "Tooling for Apache Camel K",
+    "id": "redhat/vscode-camelk/latest",
+    "links": {
+      "self": "/v3/plugins/redhat/vscode-camelk/latest/"
+    },
+    "name": "vscode-camelk",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "latest"
+  },
+  {
+    "description": "Interacting with Red Hat OpenShift clusters and providing a streamlined developer experience using Eclipse Che",
+    "displayName": "OpenShift Connector",
+    "id": "redhat/vscode-openshift-connector/0.0.17",
+    "links": {
+      "self": "/v3/plugins/redhat/vscode-openshift-connector/0.0.17/"
+    },
+    "name": "vscode-openshift-connector",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "0.0.17"
+  },
+  {
+    "description": "Interacting with Red Hat OpenShift clusters and providing a streamlined developer experience using Eclipse Che",
+    "displayName": "OpenShift Connector",
+    "id": "redhat/vscode-openshift-connector/0.0.19",
+    "links": {
+      "self": "/v3/plugins/redhat/vscode-openshift-connector/0.0.19/"
+    },
+    "name": "vscode-openshift-connector",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "0.0.19"
+  },
+  {
+    "description": "Interacting with Red Hat OpenShift clusters and providing a streamlined developer experience using Eclipse Che",
+    "displayName": "OpenShift Connector",
+    "id": "redhat/vscode-openshift-connector/0.0.21",
+    "links": {
+      "self": "/v3/plugins/redhat/vscode-openshift-connector/0.0.21/"
+    },
+    "name": "vscode-openshift-connector",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "0.0.21"
+  },
+  {
+    "description": "Interacting with Red Hat OpenShift clusters and providing a streamlined developer experience using Eclipse Che",
+    "displayName": "OpenShift Connector",
+    "id": "redhat/vscode-openshift-connector/0.1.0",
+    "links": {
+      "self": "/v3/plugins/redhat/vscode-openshift-connector/0.1.0/"
+    },
+    "name": "vscode-openshift-connector",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "0.1.0"
+  },
+  {
+    "description": "Interacting with Red Hat OpenShift clusters and providing a streamlined developer experience using Eclipse Che",
+    "displayName": "OpenShift Connector",
+    "id": "redhat/vscode-openshift-connector/0.1.1",
+    "links": {
+      "self": "/v3/plugins/redhat/vscode-openshift-connector/0.1.1/"
+    },
+    "name": "vscode-openshift-connector",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "0.1.1"
+  },
+  {
+    "description": "Interacting with Red Hat OpenShift clusters and providing a streamlined developer experience using Eclipse Che",
+    "displayName": "OpenShift Connector",
+    "id": "redhat/vscode-openshift-connector/0.1.2",
+    "links": {
+      "self": "/v3/plugins/redhat/vscode-openshift-connector/0.1.2/"
+    },
+    "name": "vscode-openshift-connector",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "0.1.2"
+  },
+  {
+    "description": "Interacting with Red Hat OpenShift clusters and providing a streamlined developer experience using Eclipse Che",
+    "displayName": "OpenShift Connector",
+    "id": "redhat/vscode-openshift-connector/latest",
+    "links": {
+      "self": "/v3/plugins/redhat/vscode-openshift-connector/latest/"
+    },
+    "name": "vscode-openshift-connector",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "latest"
+  },
+  {
+    "description": "Extension supporting the mapping of an existing SOAP service to a RESTful service in Camel Rest DSL generated via wsdl2rest.",
+    "displayName": "wsdl2rest support for Apache Camel",
+    "id": "redhat/vscode-wsdl2rest/0.0.11",
+    "links": {
+      "self": "/v3/plugins/redhat/vscode-wsdl2rest/0.0.11/"
+    },
+    "name": "vscode-wsdl2rest",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "0.0.11"
+  },
+  {
+    "deprecate": {
+      "automigrate": true,
+      "migrateTo": "redhat/vscode-wsdl2rest/latest"
+    },
+    "description": "Extension supporting the mapping of an existing SOAP service to a RESTful service in Camel Rest DSL generated via wsdl2rest.",
+    "displayName": "wsdl2rest support for Apache Camel",
+    "id": "redhat/vscode-wsdl2rest/0.0.9",
+    "links": {
+      "self": "/v3/plugins/redhat/vscode-wsdl2rest/0.0.9/"
+    },
+    "name": "vscode-wsdl2rest",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "0.0.9"
+  },
+  {
+    "description": "Extension supporting the mapping of an existing SOAP service to a RESTful service in Camel Rest DSL generated via wsdl2rest.",
+    "displayName": "wsdl2rest support for Apache Camel",
+    "id": "redhat/vscode-wsdl2rest/latest",
+    "links": {
+      "self": "/v3/plugins/redhat/vscode-wsdl2rest/latest/"
+    },
+    "name": "vscode-wsdl2rest",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "latest"
+  },
+  {
+    "description": "This VS Code extension provides support for creating and editing XML documents, based on the LSP4XML language server, running with Java.",
+    "displayName": "XML",
+    "id": "redhat/vscode-xml/0.3.0",
+    "links": {
+      "self": "/v3/plugins/redhat/vscode-xml/0.3.0/"
+    },
+    "name": "vscode-xml",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "0.3.0"
+  },
+  {
+    "description": "This VS Code extension provides support for creating and editing XML documents, based on the LSP4XML language server, running with Java.",
+    "displayName": "XML",
+    "id": "redhat/vscode-xml/0.5.1",
+    "links": {
+      "self": "/v3/plugins/redhat/vscode-xml/0.5.1/"
+    },
+    "name": "vscode-xml",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "0.5.1"
+  },
+  {
+    "description": "This VS Code extension provides support for creating and editing XML documents, based on the LSP4XML language server, running with Java.",
+    "displayName": "XML",
+    "id": "redhat/vscode-xml/0.7.0",
+    "links": {
+      "self": "/v3/plugins/redhat/vscode-xml/0.7.0/"
+    },
+    "name": "vscode-xml",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "0.7.0"
+  },
+  {
+    "description": "This VS Code extension provides support for creating and editing XML documents, based on the LSP4XML language server, running with Java.",
+    "displayName": "XML",
+    "id": "redhat/vscode-xml/0.9.1",
+    "links": {
+      "self": "/v3/plugins/redhat/vscode-xml/0.9.1/"
+    },
+    "name": "vscode-xml",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "0.9.1"
+  },
+  {
+    "description": "This VS Code extension provides support for creating and editing XML documents, based on the LSP4XML language server, running with Java.",
+    "displayName": "XML",
+    "id": "redhat/vscode-xml/latest",
+    "links": {
+      "self": "/v3/plugins/redhat/vscode-xml/latest/"
+    },
+    "name": "vscode-xml",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "latest"
+  },
+  {
+    "description": "Provides comprehensive YAML Language support to Visual Studio Code, via the yaml-language-server, with built-in Kubernetes and Kedge syntax support.",
+    "displayName": "YAML",
+    "id": "redhat/vscode-yaml/0.3.0",
+    "links": {
+      "self": "/v3/plugins/redhat/vscode-yaml/0.3.0/"
+    },
+    "name": "vscode-yaml",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "0.3.0"
+  },
+  {
+    "description": "Provides comprehensive YAML Language support to Visual Studio Code, via the yaml-language-server, with built-in Kubernetes and Kedge syntax support.",
+    "displayName": "YAML",
+    "id": "redhat/vscode-yaml/0.4.0",
+    "links": {
+      "self": "/v3/plugins/redhat/vscode-yaml/0.4.0/"
+    },
+    "name": "vscode-yaml",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "0.4.0"
+  },
+  {
+    "description": "Provides comprehensive YAML Language support to Visual Studio Code, via the yaml-language-server, with built-in Kubernetes and Kedge syntax support.",
+    "displayName": "YAML",
+    "id": "redhat/vscode-yaml/latest",
+    "links": {
+      "self": "/v3/plugins/redhat/vscode-yaml/latest/"
+    },
+    "name": "vscode-yaml",
+    "publisher": "redhat",
+    "type": "VS Code extension",
+    "version": "latest"
+  },
+  {
+    "deprecate": {
+      "automigrate": true,
+      "migrateTo": "sonarsource/sonarlint-vscode/latest"
+    },
+    "description": "VS Code extension that provides sonarlint features",
+    "displayName": "vscode-sonarlint",
+    "id": "sonarsource/sonarlint-vscode/0.0.1",
+    "links": {
+      "self": "/v3/plugins/sonarsource/sonarlint-vscode/0.0.1/"
+    },
+    "name": "sonarlint-vscode",
+    "publisher": "sonarsource",
+    "type": "VS Code extension",
+    "version": "0.0.1"
+  },
+  {
+    "description": "VS Code extension that provides sonarlint features",
+    "displayName": "vscode-sonarlint",
+    "id": "sonarsource/sonarlint-vscode/0.0.2",
+    "links": {
+      "self": "/v3/plugins/sonarsource/sonarlint-vscode/0.0.2/"
+    },
+    "name": "sonarlint-vscode",
+    "publisher": "sonarsource",
+    "type": "VS Code extension",
+    "version": "0.0.2"
+  },
+  {
+    "description": "VS Code extension that provides sonarlint features",
+    "displayName": "vscode-sonarlint",
+    "id": "sonarsource/sonarlint-vscode/latest",
+    "links": {
+      "self": "/v3/plugins/sonarsource/sonarlint-vscode/latest/"
+    },
+    "name": "sonarlint-vscode",
+    "publisher": "sonarsource",
+    "type": "VS Code extension",
+    "version": "latest"
+  },
+  {
+    "description": "Vim editor emulation.",
+    "displayName": "Vim",
+    "id": "vscodevim/vim/1.11.3",
+    "links": {
+      "self": "/v3/plugins/vscodevim/vim/1.11.3/"
+    },
+    "name": "vim",
+    "publisher": "vscodevim",
+    "type": "VS Code extension",
+    "version": "1.11.3"
+  },
+  {
+    "description": "Vim editor emulation.",
+    "displayName": "Vim",
+    "id": "vscodevim/vim/latest",
+    "links": {
+      "self": "/v3/plugins/vscodevim/vim/latest/"
+    },
+    "name": "vim",
+    "publisher": "vscodevim",
+    "type": "VS Code extension",
+    "version": "latest"
+  },
+  {
+    "description": "Eclipse running on the Web with Broadway",
+    "displayName": "Eclipse IDE",
+    "id": "ws-skeleton/eclipseide/4.9.0",
+    "links": {
+      "self": "/v3/plugins/ws-skeleton/eclipseide/4.9.0/"
+    },
+    "name": "eclipseide",
+    "publisher": "ws-skeleton",
+    "type": "Che Editor",
+    "version": "4.9.0"
+  },
+  {
+    "description": "Eclipse running on the Web with Broadway",
+    "displayName": "Eclipse IDE",
+    "id": "ws-skeleton/eclipseide/latest",
+    "links": {
+      "self": "/v3/plugins/ws-skeleton/eclipseide/latest/"
+    },
+    "name": "eclipseide",
+    "publisher": "ws-skeleton",
+    "type": "Che Editor",
+    "version": "latest"
+  },
+  {
+    "description": "Jupyter Notebook as Editor for Eclipse Che",
+    "displayName": "Jupyter Notebook",
+    "id": "ws-skeleton/jupyter/5.7.0",
+    "links": {
+      "self": "/v3/plugins/ws-skeleton/jupyter/5.7.0/"
+    },
+    "name": "jupyter",
+    "publisher": "ws-skeleton",
+    "type": "Che Editor",
+    "version": "5.7.0"
+  },
+  {
+    "description": "Jupyter Notebook as Editor for Eclipse Che",
+    "displayName": "Jupyter Notebook",
+    "id": "ws-skeleton/jupyter/latest",
+    "links": {
+      "self": "/v3/plugins/ws-skeleton/jupyter/latest/"
+    },
+    "name": "jupyter",
+    "publisher": "ws-skeleton",
+    "type": "Che Editor",
+    "version": "latest"
+  }
+]

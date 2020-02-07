@@ -10,12 +10,21 @@
 		"Other"
 	],
 	"activationEvents": [
-		"onLanguage:yaml"
+		"onLanguage:yaml",
+		"onCommand:devfile.generate"
 	],
 	"main": "./out/extension.js",
 	"extensionDependencies": [
 		"redhat.vscode-yaml"
 	],
+	"contributes": {
+		"commands": [
+			{
+				"command": "devfile.generate",
+				"title": "Generate a devfile for your current workspace"
+			}
+		]
+	},
 	"scripts": {
 		"vscode:prepublish": "yarn run compile",
 		"compile": "tsc -p ./",
