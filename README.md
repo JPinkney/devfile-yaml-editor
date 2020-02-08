@@ -13,6 +13,7 @@ Lastly, it gives you the ability to open your devfile inside of che.openshift.io
 
 [1] - It tries to match your local vscode plugins against plugins that are already in the Che registry,
 if it cannot find a perfect version match it will allow you to select the latest version of the plugin.
+
 [2] - You must push your changes to your remote before you can use the `Open Devfile` command.
 
 ![Devfile Generation](./demo/devfileGeneration.gif)
