@@ -12,3 +12,17 @@ before_install:
 install:
 - npm install
 - npm run compile
+script:
+- vsce package
+deploy:
+  provider: releases
+  email: joshpinkney@gmail.com
+  prerelease: false
+  file_glob: true
+  file: "*.vsix"
+  skip_cleanup: true
+  on:
+    tags: true
+    repo: jpinkney/devfile-yaml-editor
+  api_key:
+    secure: pNRCrlPN5zziJdpRtMYwkaUKFmpv3JK1tIzYYTHA5feY1GKvOWAO3/LjMTY87mwjGGfaMUaYqB99CbNeOneFrkFgpoWuHoDstAB6tgwl4YUXjwx/VUqjovkD5wQFGT7WpmdML2QloDAzAnoMFIaH8A+tWCmjcDsxlhXH54o9D4QgqMlOpSOLQzqeSNXD9+H/vUr0IeHJ943EUU+NrHq+Fva46pUvtLDOsypQGvcBnHAtwRSXaIPnxb1iaT+nMjLMDYMw3+VzkoOfXLd2eC0kL1tgZXGmaUWJkOmpij7B0pEXTIWm4Wfz4FGaJo7KXArKTmqmXx8H2GCMpPJFM4EZqLDDLWV5BffrXyy0k+LCshkonGGd3bcC7IO66xit6ABXlgclglANQm/c8TKhu2pyCBXniHSwe85Q3PRGTNYZXNq7NIymyQZL11Y+FAoGCHk70r+B+n0+t2O8tFXH+/EpvG/90lZcpEt8gbjmrCcnLMm5VhrPOJ6IyF7v9KecH+LssA/uOwjbuFZDVO7wrJhqDaonJoHcq/ZLqQL0RsNoOKuTma/l2cDi69lVmaIRQ9fTQ571g4ITqC3pPBo8ZLkhXJvvvxPN732h4Rb1156Thq6NHkYk06Azn65XZjTwBcUzjPI6Q+1t/f/IR8wkVpf8KYcn8WGsbVRzoucvb6sQ9Gk=
