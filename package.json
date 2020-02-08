@@ -2,9 +2,13 @@
 	"name": "devfile-yaml-editor",
 	"displayName": "devfile.yaml editor",
 	"description": "devfile.yaml editing for che devfiles with autocompletion, validation, hover",
+	"publisher": "jpinkney",
+	"repository": {
+		"url": "https://github.com/JPinkney/devfile-yaml-editor"
+	},
 	"version": "0.0.1",
 	"engines": {
-		"vscode": "^1.40.0"
+		"vscode": "^1.41.0"
 	},
 	"categories": [
 		"Other"

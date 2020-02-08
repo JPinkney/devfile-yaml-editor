@@ -16,7 +16,7 @@ if it cannot find a perfect version match it will allow you to select the latest
 
 [2] - You must push your changes to your remote before you can use the `Open Devfile` command.
 
-![Devfile Generation](./demo/devfileGeneration.gif)
+![Devfile Generation](https://github.com/JPinkney/devfile-yaml-editor/raw/master/demo/devfileGeneration.gif)
 
 ### Available Commands
 The following commands are offered:
