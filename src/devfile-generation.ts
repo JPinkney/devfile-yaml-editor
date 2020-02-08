@@ -38,7 +38,7 @@ export async function generateProjects(): Promise<Project[]> {
     return projects;
 }
 
-function runCommand(directory: string, cmd: string) {
+export function runCommand(directory: string, cmd: string) {
     return execFileSync('git', cmd.split(' '), {
         cwd: directory,
         encoding: "utf8"

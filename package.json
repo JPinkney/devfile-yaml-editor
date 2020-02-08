@@ -11,7 +11,8 @@
 	],
 	"activationEvents": [
 		"onLanguage:yaml",
-		"onCommand:devfile.generate"
+		"onCommand:devfile.generate",
+		"onCommand:devfile.open"
 	],
 	"main": "./out/extension.js",
 	"extensionDependencies": [
@@ -22,8 +23,20 @@
 			{
 				"command": "devfile.generate",
 				"title": "Generate a devfile for your current workspace"
+			},
+			{
+				"command": "devfile.open",
+				"title": "Open Devfile"
 			}
-		]
+		],
+		"menus": {
+			"explorer/context": [
+				{
+					"command": "devfile.open",
+					"when": "resourceFilename == devfile.yaml"
+				}
+			]
+		}
 	},
 	"scripts": {
 		"vscode:prepublish": "yarn run compile",
@@ -45,6 +58,7 @@
 	},
 	"dependencies": {
 		"axios": "^0.19.2",
+		"open": "^7.0.2",
 		"request-light": "^0.2.5"
 	}
 }
