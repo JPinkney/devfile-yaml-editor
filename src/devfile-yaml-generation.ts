@@ -57,7 +57,7 @@ export class DevfileYAMLGeneration {
             this.DevfileYAML += `- type: dockerimage\n`;
             this.DevfileYAML += `  alias: ${tooling.name}\n`;
             this.DevfileYAML += `  image: ${tooling.image}\n`;
-            this.DevfileYAML += `  memoryLimit: 500Mb\n`;
+            this.DevfileYAML += `  memoryLimit: 256Mi\n`;
         });
     }
 
